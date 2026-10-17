@@ -1,0 +1,70 @@
+{
+  "name": "slate-samples-v2",
+  "shared_prompt": "graphic novel interior art, hand drawn, flat 2d illustration, strong readable composition, clean uncluttered image",
+  "defaults": {
+    "batch": 2,
+    "variations": 1,
+    "seed": 20261003,
+    "negative": "text, letters, words, watermark, logo, signature, stock photo, gettyimages, caption, handwriting, photorealistic, photograph, 3d render, blurry, distorted, extra fingers, deformed hands"
+  },
+  "categories": {
+    "03.01": {
+      "prompt": "charcoal drawing on textured paper, heavy black shadows, worn film print texture, hard edges, sharply controlled pools of amber lamp light, near monochrome with a single amber accent",
+      "items": [
+        {
+          "name": "palette-test",
+          "prompt": "still life on a cinema rewind bench, film cans and a bare work lamp, low close composition, charcoal black and grey with one pool of amber light"
+        },
+        {
+          "name": "lead-character",
+          "prompt": "charcoal portrait of an elderly man, deeply lined face, thin grey hair, stooped shoulders, grey cardigan over a work shirt, long thin hands, lit from the side by a bare lamp"
+        },
+        {
+          "name": "main-location",
+          "prompt": "charcoal drawing of a cramped projection booth interior, two film projectors on stands pointing at small square windows, a rewind bench, shelves of round film cans, thin beams of light through the windows"
+        },
+        {
+          "name": "key-object",
+          "prompt": "close up charcoal drawing of a long strip of white film leader lying across a dark bench, pencil marks along the strip, a round film can beside it, one lamp"
+        },
+        {
+          "name": "core-device",
+          "prompt": "charcoal drawing of a sheet of paper on a bench with a small film frame sketched on it, square perforation holes along both sides of the frame, a small van drawn inside the frame"
+        },
+        {
+          "name": "page-layout",
+          "prompt": "comic page of six rectangular panels in three rows, charcoal drawings of a dark room with a lamp, thick black panel borders, some panels left empty"
+        }
+      ]
+    },
+    "01.01": {
+      "prompt": "architect's technical pen linework on cream drafting paper, fine hatching, flat slate grey watercolor wash kept inside the lines, orderly precise drawing, cool restrained palette, surveyor's drawing office look",
+      "items": [
+        {
+          "name": "palette-test",
+          "prompt": "overhead flat view of a surveyor's desk, rolled building plan, tape measure and laser measure, cream paper, black ink line, slate grey wash"
+        },
+        {
+          "name": "lead-character",
+          "prompt": "half figure portrait of a woman of 41 in a dark practical jacket, hard hat clipped to her bag, municipal lanyard, tablet on a strap, tape measure in her hand, looking down at a drawing"
+        },
+        {
+          "name": "main-location",
+          "prompt": "ink drawing looking through a small low doorway into a narrow service corridor of an old brick building, plain pale door, pipes along the wall, a small window onto a narrow shaft"
+        },
+        {
+          "name": "key-object",
+          "prompt": "ink drawing close up of a small rectangular brass plate fixed to a pale painted wooden door with two screws, flat grey wash"
+        },
+        {
+          "name": "core-device",
+          "prompt": "architectural ink drawing, front view cross section of a six storey brick building showing floors and rooms, several transparent overlay sheets laid over it, slightly shifted, thin coloured lines"
+        },
+        {
+          "name": "page-layout",
+          "prompt": "comic page of nine equal rectangular panels in a grid, each a small ink drawing of a building section, thin double borders slightly offset, a few panels left empty"
+        }
+      ]
+    }
+  }
+}

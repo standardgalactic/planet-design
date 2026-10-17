@@ -1,0 +1,82 @@
+# Steel Sky. Based on AbdBarho/stable-diffusion-webui-docker, whose services are kept here.
+# Added: the "arch" profile, a tooling container for the Python scripts.
+#
+#   docker compose --profile download up --build     fetch model files (first time)
+#   docker compose --profile comfy up --build        ComfyUI on http://localhost:7860
+#   docker compose --profile arch up --build -d      Arch tooling container
+#   docker compose exec arch bash                    shell in it, project at /work
+
+x-base_service: &base_service
+    ports:
+      - "${WEBUI_PORT:-7860}:7860"
+    volumes:
+      - &v1 ./data:/data
+      - &v2 ./output:/output
+    stop_signal: SIGKILL
+    tty: true
+    deploy:
+      resources:
+        reservations:
+          devices:
+              - driver: nvidia
+                device_ids: ['0']
+                capabilities: [compute, utility]
+
+name: steel-sky
+
+services:
+  download:
+    build: ./services/download/
+    profiles: ["download"]
+    volumes:
+      - *v1
+
+  auto: &automatic
+    <<: *base_service
+    profiles: ["auto"]
+    build: ./services/AUTOMATIC1111
+    image: sd-auto:78
+    environment:
+      - CLI_ARGS=--allow-code --medvram --xformers --enable-insecure-extension-access --api
+
+  auto-cpu:
+    <<: *automatic
+    profiles: ["auto-cpu"]
+    deploy: {}
+    environment:
+      - CLI_ARGS=--no-half --precision full --allow-code --enable-insecure-extension-access --api
+
+  comfy: &comfy
+    <<: *base_service
+    profiles: ["comfy"]
+    build: ./services/comfy/
+    image: sd-comfy:7
+    environment:
+      - CLI_ARGS=
+
+
+  comfy-cpu:
+    <<: *comfy
+    profiles: ["comfy-cpu"]
+    deploy: {}
+    environment:
+      - CLI_ARGS=--cpu
+
+  # Tooling container: generate_collection.py, make_thumbs.py, monotonic_commit.py.
+  # No GPU and no port. It reaches ComfyUI on the host at $COMFY_URL.
+  arch:
+    profiles: ["arch"]
+    build:
+      context: ./services/arch/
+      args:
+        BASE: ${ARCH_BASE:-flyxion/arch-minimal:v1}
+        PUID: ${PUID:-1000}
+        PGID: ${PGID:-1000}
+    image: steel-sky-arch:1
+    working_dir: /work
+    volumes:
+      - .:/work
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    stdin_open: true
+    tty: true

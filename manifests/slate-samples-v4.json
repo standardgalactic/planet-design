@@ -1,0 +1,38 @@
+{
+  "name": "slate-samples-v4",
+  "shared_prompt": "graphic novel interior art, hand drawn, flat 2d illustration, full bleed drawing that fills the entire image, strong readable composition",
+  "defaults": {
+    "batch": 3,
+    "variations": 1,
+    "seed": 20261005,
+    "negative": "text, letters, words, watermark, logo, signature, caption, handwriting, photorealistic, photograph, 3d render, blurry, distorted, extra fingers, deformed hands, picture frame, frame, mat, border, museum wall, gallery, hanging on a wall, bright room, daylight, window"
+  },
+  "categories": {
+    "03.01": {
+      "prompt": "charcoal drawing, heavy black shadows, worn film print texture, hard edges, almost entirely black with one pool of warm amber lamp light, near monochrome",
+      "items": [
+        {
+          "name": "key-object",
+          "prompt": "close up of a long thin ribbon of film with a row of small square holes along both edges, curled across a dark bench, a bare lamp glow behind it"
+        },
+        {
+          "name": "main-location",
+          "prompt": "very dark cramped room, a large film projector on a metal stand beside a small square opening in the wall, a hard beam of light leaving the opening, film cans on a shelf, nearly black"
+        }
+      ]
+    },
+    "01.01": {
+      "prompt": "architect's technical pen linework, fine hatching, flat slate grey watercolor wash kept inside the lines, orderly precise drawing, cool restrained palette, surveyor's drawing office look",
+      "items": [
+        {
+          "name": "lead-character",
+          "prompt": "full figure woman of 41 in a plain dark jacket, short hair, small tired face, holding a yellow hard hat in one hand, a yellow tape measure in the other, standing on a bare floor, plain pale background"
+        },
+        {
+          "name": "key-object",
+          "prompt": "close up of a small rectangular brass plate with two screws on a flat grey painted door, a single brass highlight, black ink and flat grey wash"
+        }
+      ]
+    }
+  }
+}

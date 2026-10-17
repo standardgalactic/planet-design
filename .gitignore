@@ -1,0 +1,14 @@
+/.devcontainer
+/docker-compose.override.yml
+
+# VSCode specific
+*.code-workspace
+/.vscode
+
+
+/output/
+*.progress.json
+/.cleanup-backups/
+
+*.bak
+__pycache__/

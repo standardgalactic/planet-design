@@ -1,0 +1,54 @@
+{
+  "name": "slate-samples-v3",
+  "shared_prompt": "graphic novel interior art, hand drawn, flat 2d illustration, full bleed drawing that fills the entire image, strong readable composition",
+  "defaults": {
+    "batch": 4,
+    "variations": 1,
+    "seed": 20261004,
+    "negative": "text, letters, words, watermark, logo, signature, caption, handwriting, photorealistic, photograph, 3d render, blurry, distorted, extra fingers, deformed hands, picture frame, frame, mat, border, museum wall, gallery, hanging on a wall"
+  },
+  "categories": {
+    "03.01": {
+      "prompt": "charcoal drawing, heavy black shadows, worn film print texture, hard edges, sharply controlled pools of warm amber lamp light, near monochrome",
+      "items": [
+        {
+          "name": "palette-test",
+          "prompt": "still life of round film cans stacked on a wooden bench beside a bare bulb work lamp, low close composition, one pool of warm amber light"
+        },
+        {
+          "name": "lead-character",
+          "prompt": "profile portrait of an elderly man, deeply lined face, thin grey hair, stooped shoulders, grey cardigan over a work shirt, lit from the side by a bare lamp"
+        },
+        {
+          "name": "main-location",
+          "prompt": "narrow dark room with two film projectors on stands facing small square ports in the wall, steel shelves of round film cans, thin shafts of light through the ports"
+        },
+        {
+          "name": "key-object",
+          "prompt": "close up of a thin strip of pale film lying across a dark bench, perforated edges, hard edge, shallow depth of field"
+        }
+      ]
+    },
+    "01.01": {
+      "prompt": "architect's technical pen linework, fine hatching, flat slate grey watercolor wash kept inside the lines, orderly precise drawing, cool restrained palette, surveyor's drawing office look",
+      "items": [
+        {
+          "name": "palette-test",
+          "prompt": "overhead flat view of a surveyor's desk, a rolled building plan, a tape measure and a pencil on cream paper, black ink line, slate grey wash"
+        },
+        {
+          "name": "lead-character",
+          "prompt": "full figure woman of 41 in a plain dark jacket and trousers, short practical hair, holding a yellow hard hat in one hand and a tape measure in the other, standing and looking down at a drawing"
+        },
+        {
+          "name": "main-location",
+          "prompt": "ink drawing looking through a low doorway into a narrow service corridor of an old brick building, a cream painted door flush with the wall, pipes along the wall, a small window onto a light well"
+        },
+        {
+          "name": "key-object",
+          "prompt": "close up of a small brass plate screwed to a pale painted door, two screws, flat grey wash and black ink"
+        }
+      ]
+    }
+  }
+}

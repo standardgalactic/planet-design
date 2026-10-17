@@ -1,0 +1,155 @@
+{
+  "name": "steel-sky-world",
+  "shared_prompt": "cinematic production design study, atmospheric realism, coherent material textures, weathered surfaces, muted blue grey and warm amber palette, subtle film grain, restrained contrast, soft directional light, believable scale, detailed composition, quiet mysterious mood, analog cinema atmosphere, careful separation of foreground and background, visual storytelling through light and texture",
+  "defaults": {
+    "batch": 4,
+    "variations": 2,
+    "seed": 20261003,
+    "negative": "text, watermark, logo, blurry, distorted, oversaturated, low quality"
+  },
+  "categories": {
+    "scenes": {
+      "prompt": "environment establishing shot, spatial depth, wide composition",
+      "items": [
+        {
+          "name": "city-panorama",
+          "prompt": "wide establishing view of a futuristic city beneath a steel sky, distant forests, morning light"
+        },
+        {
+          "name": "cinema-auditorium",
+          "prompt": "empty old cinema auditorium, rows of worn velvet seats, light from the projection window"
+        },
+        {
+          "name": "projection-booth",
+          "prompt": "cramped projection booth, two mechanical film projectors, reels and cables"
+        },
+        {
+          "name": "roadside-cafe",
+          "prompt": "quiet roadside cafe at dusk, rain on windows, wooden tables"
+        },
+        {
+          "name": "forest-road",
+          "prompt": "deserted road through dense forest, low mist, distant mountain ridge"
+        },
+        {
+          "name": "bus-stop",
+          "prompt": "remote bus stop beside a lake road at night, single overhead lamp"
+        },
+        {
+          "name": "city-alley",
+          "prompt": "narrow city alley, wet paving stones, pipes along brick walls"
+        },
+        {
+          "name": "archive-room",
+          "prompt": "film archive room, shelves of metal film cans, dusty worktable"
+        },
+        {
+          "name": "workshop",
+          "prompt": "small mechanical workshop, tools and dismantled projector on a bench"
+        },
+        {
+          "name": "rooftop",
+          "prompt": "rooftop above a sprawling city, distant towers under low clouds"
+        },
+        {
+          "name": "train-platform",
+          "prompt": "empty railway platform at dawn, long shadows and pale fog"
+        },
+        {
+          "name": "lakeshore",
+          "prompt": "quiet lakeshore at twilight, reeds and distant forest reflected in water"
+        }
+      ]
+    },
+    "characters": {
+      "prompt": "single person, character casting study, neutral background, medium portrait",
+      "items": [
+        {
+          "name": "archivist",
+          "prompt": "portrait of an adult archivist, dark curly hair, olive jacket, thoughtful expression"
+        },
+        {
+          "name": "projectionist",
+          "prompt": "portrait of an elderly projectionist, silver hair, round glasses, brown work vest"
+        },
+        {
+          "name": "reporter",
+          "prompt": "portrait of an adult reporter, rust-red blazer, cream blouse, holding a spiral notepad"
+        },
+        {
+          "name": "mechanic",
+          "prompt": "portrait of an adult mechanic, blue work overalls, short dark hair"
+        },
+        {
+          "name": "cafe-owner",
+          "prompt": "portrait of an adult cafe owner, dark apron over a cream shirt"
+        },
+        {
+          "name": "traveler",
+          "prompt": "portrait of an adult traveler, charcoal coat, canvas shoulder bag"
+        },
+        {
+          "name": "usher",
+          "prompt": "portrait of an adult cinema usher, burgundy uniform jacket"
+        },
+        {
+          "name": "engineer",
+          "prompt": "portrait of an adult engineer, grey utility jacket, holding a small instrument"
+        }
+      ]
+    },
+    "objects": {
+      "prompt": "single prop, product study, plain background, clear silhouette, detailed materials",
+      "items": [
+        {
+          "name": "film-can",
+          "prompt": "a single worn metal film can, circular lid, scratched surface"
+        },
+        {
+          "name": "film-reel",
+          "prompt": "a single old metal film reel, wound dark celluloid"
+        },
+        {
+          "name": "projector",
+          "prompt": "a vintage mechanical cinema projector, exposed reels and lens"
+        },
+        {
+          "name": "notepad",
+          "prompt": "a spiral reporter notebook beside a silver microphone"
+        },
+        {
+          "name": "bus-ticket",
+          "prompt": "a faded paper bus ticket, blank printed panels"
+        },
+        {
+          "name": "coffee-cup",
+          "prompt": "a ceramic coffee cup on a saucer, small spoon beside it"
+        },
+        {
+          "name": "desk-lamp",
+          "prompt": "an old adjustable metal desk lamp, warm light"
+        },
+        {
+          "name": "keyring",
+          "prompt": "a small ring of brass keys on a wooden table"
+        },
+        {
+          "name": "cassette-recorder",
+          "prompt": "a portable cassette tape recorder, worn buttons"
+        },
+        {
+          "name": "toolbox",
+          "prompt": "an open metal toolbox containing well-used mechanical tools"
+        },
+        {
+          "name": "camera",
+          "prompt": "a vintage compact film camera with a leather strap"
+        },
+        {
+          "name": "road-sign",
+          "prompt": "a weathered blank metal road sign on a narrow post"
+        }
+      ]
+    }
+  }
+}

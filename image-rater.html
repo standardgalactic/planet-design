@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Image Rater</title>
+  <style>
+    body { font-family: sans-serif; margin: 0; padding: 1rem; background: #f0f0f0; }
+    h2 { margin-top: 2rem; }
+    .category { margin-bottom: 3rem; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; }
+    .card { background: #fff; padding: 0.5rem; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    img { width: 100%; cursor: crosshair; }
+    select, textarea { width: 100%; margin-top: 0.5rem; }
+    button { margin-top: 0.5rem; }
+  </style>
+</head>
+<body>
+
+  <h1>Image Annotator & Rater</h1>
+  <div id="categories"></div>
+
+  <script type="module">
+    import { createClient } from 'https://esm.sh/@supabase/supabase-js'
+
+    const SUPABASE_URL = 'https://avtekvvqwqvxkipapzon.supabase.co'
+    const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF2dGVrdnZxd3F2eGtpcGFwem9uIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc4NTgxMzksImV4cCI6MjA2MzQzNDEzOX0.NqO98sAJpA_KB1j5EVcdddF3sxEzeO2rwjL41oiYG0I'
+    const supabase = createClient(SUPABASE_URL, SUPABASE_KEY)
+
+    const ratings = ["Mind-blowing", "Amazing", "Great", "Average", "Ugly", "Please delete"]
+    const categoryMap = {
+      'ComfyUI': [],
+      'Political Art': [],
+      'Steel-sky': []
+    }
+
+    const filenames = await fetch('output/comfy/filenames.json').then(r => r.json())
+
+    // Split filenames into categories
+    filenames.forEach(name => {
+      if (name.startsWith('ComfyUI_')) categoryMap['ComfyUI'].push(name)
+      else if (name.startsWith('Political Art_')) categoryMap['Political Art'].push(name)
+      else if (name.startsWith('Steel-sky_')) categoryMap['Steel-sky'].push(name)
+    })
+
+    const container = document.getElementById('categories')
+
+    for (const [category, files] of Object.entries(categoryMap)) {
+      const section = document.createElement('div')
+      section.className = 'category'
+      section.innerHTML = `<h2>${category}</h2><div class="grid"></div>`
+      const grid = section.querySelector('.grid')
+
+      files.slice(0, 100).forEach(filename => {
+        const card = document.createElement('div')
+        card.className = 'card'
+        card.innerHTML = `
+          <img src="output/comfy/${filename}" alt="${filename}" data-filename="${filename}">
+          <select>
+            ${ratings.map(r => `<option value="${r}">${r}</option>`).join('')}
+          </select>
+          <textarea placeholder="Comment..."></textarea>
+          <button>Submit</button>
+        `
+
+        const img = card.querySelector('img')
+        const select = card.querySelector('select')
+        const textarea = card.querySelector('textarea')
+        const button = card.querySelector('button')
+
+        img.addEventListener('click', e => {
+          const rect = e.target.getBoundingClientRect()
+          const x = ((e.clientX - rect.left) / rect.width).toFixed(3)
+          const y = ((e.clientY - rect.top) / rect.height).toFixed(3)
+          alert(`Clicked at (${x}, ${y}) in image ${filename}`)
+          // Optional: save coordinates via Supabase
+        })
+
+        button.addEventListener('click', async () => {
+          const { data, error } = await supabase.from('image_feedback').insert([{
+            filename,
+            rating: select.value,
+            comment: textarea.value,
+            timestamp: new Date().toISOString()
+          }])
+          if (error) alert("❌ Error submitting: " + error.message)
+          else alert("✅ Feedback submitted!")
+        })
+
+        grid.appendChild(card)
+      })
+
+      container.appendChild(section)
+    }
+  </script>
+</body>
+</html>
+

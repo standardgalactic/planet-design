@@ -1,0 +1,70 @@
+{
+  "name": "slate-samples",
+  "shared_prompt": "graphic novel interior art, hand drawn, flat 2d illustration, strong readable composition, clean uncluttered image",
+  "defaults": {
+    "batch": 1,
+    "variations": 1,
+    "seed": 20261003,
+    "negative": "text, letters, words, watermark, logo, signature, blurry, distorted, photograph, 3d render, extra fingers, deformed hands"
+  },
+  "categories": {
+    "03.01": {
+      "prompt": "charcoal drawing on textured paper, heavy black shadows, worn film print texture, hard edges, sharply controlled pools of amber lamp light, near monochrome with a single amber accent",
+      "items": [
+        {
+          "name": "palette-test",
+          "prompt": "still life on a cinema rewind bench, film cans and a bare work lamp, low close composition, charcoal black and grey with one pool of amber light"
+        },
+        {
+          "name": "lead-character",
+          "prompt": "half figure portrait of a tall narrow stooped man of 63, grey cardigan over a work shirt, white cotton gloves tucked in a back pocket, long precise hands, lit by a bare work lamp from the side"
+        },
+        {
+          "name": "main-location",
+          "prompt": "wide view of a narrow cinema projection booth, two film projectors facing small ports, rewind bench, steel shelves of film cans, thin amber light shafts passing through the ports into a dark auditorium"
+        },
+        {
+          "name": "key-object",
+          "prompt": "close up of the white leader tail of a film reel held flat by gloved fingers, faint pencil scribbles in two different handwritings, perforated film edge, hard edged charcoal"
+        },
+        {
+          "name": "core-device",
+          "prompt": "a charcoal pencil drawing on butcher paper with a film frame shaped panel growing out of it, the frame edged with perforations and a thin silver inner border, inside it a tiny red van on a lake road, everything else charcoal, only the van is red"
+        },
+        {
+          "name": "page-layout",
+          "prompt": "graphic novel page layout, three rows of rectangular panels with hairline gutters, charcoal scenes of a projection booth, several plain empty blank panels"
+        }
+      ]
+    },
+    "01.01": {
+      "prompt": "architect's technical pen linework on cream drafting paper, fine hatching, flat slate grey watercolor wash kept inside the lines, orderly precise drawing, cool restrained palette, surveyor's drawing office look",
+      "items": [
+        {
+          "name": "palette-test",
+          "prompt": "overhead flat view of a surveyor's desk, rolled building plan, tape measure and laser measure, cream paper, black ink line, slate grey wash"
+        },
+        {
+          "name": "lead-character",
+          "prompt": "half figure portrait of a woman of 41 in a dark practical jacket, hard hat clipped to her bag, municipal lanyard, tablet on a strap, tape measure in her hand, looking down at a drawing"
+        },
+        {
+          "name": "main-location",
+          "prompt": "low doorway angle on a narrow rear service landing of an old brick building, a cream painted door flush with the wall with a small brass knob, pipes along the wall, a window onto a narrow light well"
+        },
+        {
+          "name": "key-object",
+          "prompt": "close up of a small brass plate screwed to a cream painted door, two screws, a single brass highlight, everything else flat grey wash and black ink"
+        },
+        {
+          "name": "core-device",
+          "prompt": "frontal cross section of a six storey brick building drawn on stacked sheets of tracing film slightly out of register, each sheet in a different ink colour: black, sepia, orange, cobalt blue, teal, oxblood, violet, a small strip of five rooms at the rear drawn differently on each sheet"
+        },
+        {
+          "name": "page-layout",
+          "prompt": "graphic novel page of a precise three by three grid of rectangular panels with slightly misaligned doubled borders, architectural section drawings, several plain empty blank panels"
+        }
+      ]
+    }
+  }
+}

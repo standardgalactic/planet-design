@@ -1,0 +1,441 @@
+id,look,medium_category,devices
+01.01,Precise building sections and orderly panels that grow harder to reconcile.,"Technical, cutaway and cartographic",Gradual change across the book; Page or panel geometry carries the idea
+01.02,Comic-strip regularity with panel sizes that swell and shrink with each cycle.,"Ink, engraving and print",Gradual change across the book; Page or panel geometry carries the idea
+01.03,Colored-pencil diagrams overlaying dark gouache underground scenes.,"Watercolor, gouache and painted",
+01.04,Engraving-style panels; the route drawn as a single unbroken line across the page.,"Ink, engraving and print",Page or panel geometry carries the idea; Single constant object or colour as anchor
+01.05,Aerial panels with flow lines; thickening of line weight as congestion builds.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+01.06,Soft watercolor cells whose boundaries are visible only by sound lines.,"Watercolor, gouache and painted",
+01.07,Ledger-page layouts with names overprinting one another.,"Document, ledger and typographic",Page or panel geometry carries the idea; Single constant object or colour as anchor
+01.08,Clock-face panels; recurring scenes tiled in a circular page order.,Unspecified,Repetition with variation; Page or panel geometry carries the idea
+01.09,Cutaway tower pages; shading spreads like stain through apartment cells.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+01.10,Increasingly fractured page grids; a final full-bleed panel.,Unspecified,Gradual change across the book; Page or panel geometry carries the idea
+01.11,Sun-faded ink drawings with figures omitted from panels in proportion to the sampling gap.,"Ink, engraving and print",Page or panel geometry carries the idea
+01.12,Overhead panels; one small object stays constant across turning compositions.,Unspecified,Page or panel geometry carries the idea; Single constant object or colour as anchor
+01.13,Stacks as architecture; panels sorted by increasing order across spreads.,Unspecified,Gradual change across the book; Page or panel geometry carries the idea
+01.14,Disc-shaped page layouts with panels shrinking toward the border.,"Ink, engraving and print",Gradual change across the book; Page or panel geometry carries the idea
+01.15,Theatrical stairwell panels; tiers of speakers on landings.,Unspecified,Page or panel geometry carries the idea
+01.16,Grid-based panel layouts; time steps shown as sequential page strips.,Unspecified,Page or panel geometry carries the idea
+01.17,Mirrored page spreads; text and figures flip after each lap.,Unspecified,Page or panel geometry carries the idea
+01.18,"Farcical, long horizontal panels with ever longer corridors.",Unspecified,Page or panel geometry carries the idea
+01.19,Split-page layouts with two time axes running in parallel.,Unspecified,Paired or parallel contrast; Page or panel geometry carries the idea
+01.20,"Quiet, orderly plan-view pages; headstones as repeating tiles.","Technical, cutaway and cartographic",Repetition with variation; Page or panel geometry carries the idea
+02.01,"Domestic realism, with one recurring panel of the lodger's untold evening.","Realism, reportage and cinematic",Repetition with variation; Page or panel geometry carries the idea; Single constant object or colour as anchor
+02.02,Cutaway house plans with keys drawn as arrows.,"Technical, cutaway and cartographic",
+02.03,Decorative storybook borders that tessellate across pages.,"Illustration, folk and decorative",Page or panel geometry carries the idea
+02.04,Handwriting panels with transcription errors highlighted in margin ink.,"Ink, engraving and print",Page or panel geometry carries the idea
+02.05,"One long table, shot in repeating overhead panels.",Unspecified,Repetition with variation; Page or panel geometry carries the idea; Single constant object or colour as anchor
+02.06,Sitcom grid layouts that fragment as trust fails.,"Caricature, cartoon and farce",Gradual change across the book; Page or panel geometry carries the idea
+02.07,Minimalist panels centered on a single dial.,Unspecified,Page or panel geometry carries the idea; Single constant object or colour as anchor
+02.08,Time-lapse panel sequences converging on one composition.,Unspecified,Page or panel geometry carries the idea; Single constant object or colour as anchor
+02.09,Wall-level panels; pendulum arcs line up across spreads.,Unspecified,Page or panel geometry carries the idea
+02.10,"Each page halved by a vertical line, then halved again.",Unspecified,Page or panel geometry carries the idea
+02.11,Mirror-symmetric spreads that break once.,Unspecified,Page or panel geometry carries the idea
+02.12,Dim ink pages with marks as red dots.,"Ink, engraving and print",Page or panel geometry carries the idea
+02.13,Wardrobe diagrams woven into portraits.,"Technical, cutaway and cartographic",
+02.14,Ledger-page layouts with Victorian lettering.,"Document, ledger and typographic",Page or panel geometry carries the idea
+02.15,Calendar grids as page architecture.,"Document, ledger and typographic",Page or panel geometry carries the idea
+02.16,"Black-and-white, high-contrast panels with speech balloons shaped by speaker type.",Charcoal and monochrome,Paired or parallel contrast; Page or panel geometry carries the idea
+02.17,Cutaway tenements with fading speech lines.,"Technical, cutaway and cartographic",Gradual change across the book
+02.18,Bipartite diagrams inked over floor plans.,"Ink, engraving and print",
+02.19,Pages grow denser with each generation.,Unspecified,Gradual change across the book; Page or panel geometry carries the idea
+02.20,Detailed model-making panels; parts labeled by year.,Unspecified,Page or panel geometry carries the idea
+03.01,"Charcoal, worn print textures, sharply controlled pools of light.",Charcoal and monochrome,
+03.02,Long horizontal panels; dried riverbed as the gutter.,Unspecified,Page or panel geometry carries the idea
+03.03,Morse rhythm as panel rhythm.,Unspecified,Page or panel geometry carries the idea
+03.04,Letterpress texture with missing glyph gaps.,"Ink, engraving and print",
+03.05,Cold seascapes with calendar overlays.,"Document, ledger and typographic",
+03.06,"Art deco cutaways, queues rendered as spirals.","Technical, cutaway and cartographic",
+03.07,Elevation-line backgrounds.,"Technical, cutaway and cartographic",
+03.08,Parchment ledgers with digit counts floating beside.,"Document, ledger and typographic",Paired or parallel contrast
+03.09,Vertical pages with minimal horizon lines.,Unspecified,Page or panel geometry carries the idea
+03.10,Dense cable diagrams as page borders.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+03.11,Maps that stretch as the characters travel.,"Ink, engraving and print",
+03.12,Chimney-scape rooftops with failure spreading in red.,Unspecified,Page or panel geometry carries the idea
+03.13,Woodcut-style weather symbols.,"Ink, engraving and print",
+03.14,Plan-view with sight cones.,"Technical, cutaway and cartographic",
+03.15,Mountain panels; load diagrams in margins.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+03.16,Gothic interiors; panel widths set by pay.,"Realism, reportage and cinematic",Page or panel geometry carries the idea
+03.17,Hand-focused close-ups that sharpen across the book.,Unspecified,
+03.18,Brass mechanisms in cutaway.,"Technical, cutaway and cartographic",
+03.19,Boiler-room reds and cold deck blues.,Unspecified,
+03.20,Columns of numerals as architectural elements.,"Technical, cutaway and cartographic",
+04.01,"Elegant interiors, expressive caricature.","Caricature, cartoon and farce",
+04.02,"Endless corridors, nested stamp panels.","Document, ledger and typographic",Page or panel geometry carries the idea
+04.03,Courtroom scenes with probability trees in the jury box.,Unspecified,
+04.04,Classroom grids that become answer sheets.,Unspecified,Page or panel geometry carries the idea
+04.05,Nested frames within frames.,Unspecified,Page or panel geometry carries the idea
+04.06,Technical drawings of scales; chains of seals.,"Technical, cutaway and cartographic",
+04.07,Lab notebooks with torn pages.,Unspecified,Page or panel geometry carries the idea
+04.08,Card-catalogue panels.,"Document, ledger and typographic",Page or panel geometry carries the idea
+04.09,Forms as panel borders.,"Document, ledger and typographic",Page or panel geometry carries the idea
+04.10,Chairs in rows; queue arrows.,Unspecified,
+04.11,Lunar bureaucracy with echoing panels.,Unspecified,Page or panel geometry carries the idea
+04.12,Chamber seating charts that overflow.,"Technical, cutaway and cartographic",
+04.13,Models next to full-scale frames.,Unspecified,Page or panel geometry carries the idea
+04.14,Staircase panels.,Unspecified,Page or panel geometry carries the idea
+04.15,Banquet tables stretching across spreads.,"Ink, engraving and print",Gradual change across the book; Page or panel geometry carries the idea
+04.16,Scales balanced on a wire.,Unspecified,
+04.17,"Paired panels of ""before"" and ""after.""",Unspecified,Paired or parallel contrast; Page or panel geometry carries the idea
+04.18,Supply chain as a descending staircase.,Unspecified,
+04.19,Cool clinical palette; corridor as recurring spine.,Charcoal and monochrome,Repetition with variation
+04.20,Dictionary-style page layouts.,"Document, ledger and typographic",Page or panel geometry carries the idea
+05.01,Pipe cutaways with pulse lines.,"Technical, cutaway and cartographic",
+05.02,Technical drawings gone slightly out of register.,"Technical, cutaway and cartographic",Single constant object or colour as anchor
+05.03,Textile-style panel weaves.,"Illustration, folk and decorative",Page or panel geometry carries the idea
+05.04,Rotary-dial circular panels.,Unspecified,Page or panel geometry carries the idea
+05.05,Brass gears with wave traces.,"Technical, cutaway and cartographic",
+05.06,Orbital rings across pages.,Unspecified,Page or panel geometry carries the idea
+05.07,Waveform borders.,Unspecified,Page or panel geometry carries the idea
+05.08,Gear-wheel page layouts.,Unspecified,Page or panel geometry carries the idea
+05.09,Water levels as panel height.,Unspecified,Page or panel geometry carries the idea
+05.10,Incandescent palettes cooling across the book.,Charcoal and monochrome,Gradual change across the book
+05.11,Bead rows as page rules.,"Illustration, folk and decorative",Page or panel geometry carries the idea
+05.12,"Folk-art, repeating scenes of weighing.","Illustration, folk and decorative",Repetition with variation
+05.13,State diagrams as streetmaps.,"Technical, cutaway and cartographic",
+05.14,Lever-frame panels.,Unspecified,Page or panel geometry carries the idea
+05.15,Cabinet cross-sections.,"Technical, cutaway and cartographic",
+05.16,Vertical page strips.,Unspecified,Page or panel geometry carries the idea
+05.17,Pitch rendered as line width.,Unspecified,
+05.18,Cross-sections of cylinders.,"Technical, cutaway and cartographic",
+05.19,Typographic drift across pages.,"Document, ledger and typographic",Gradual change across the book; Page or panel geometry carries the idea
+05.20,"Workshop interiors, a single part in many scenes.","Realism, reportage and cinematic",Single constant object or colour as anchor
+06.01,Aerial panels with excavation overlays.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+06.02,Cold storage interiors.,"Realism, reportage and cinematic",
+06.03,Cross-section pages with colored bands.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+06.04,Decay curves tucked into trenches.,Unspecified,
+06.05,Receipt-paper textures.,"Document, ledger and typographic",
+06.06,Intersection tableaus.,"Technical, cutaway and cartographic",
+06.07,Fragmented glyph panels.,"Document, ledger and typographic",Gradual change across the book; Page or panel geometry carries the idea
+06.08,Rails converging across spreads.,Unspecified,Page or panel geometry carries the idea
+06.09,Plan views of a ruin with competing overlays.,"Technical, cutaway and cartographic",
+06.10,Facsimile pages.,"Document, ledger and typographic",Page or panel geometry carries the idea
+06.11,Sober anatomical plates.,"Illustration, folk and decorative",
+06.12,Overlay of old and new coastlines.,Unspecified,
+06.13,Antenna fields at dusk.,Unspecified,
+06.14,Linked trench diagrams.,"Ink, engraving and print",
+06.15,Specimen plates.,"Illustration, folk and decorative",
+06.16,Close-ups of worn keys.,Unspecified,
+06.17,Precision instrument drawings.,"Technical, cutaway and cartographic",
+06.18,Wireframes becoming more elaborate and less plausible.,"Technical, cutaway and cartographic",Gradual change across the book; Page or panel geometry carries the idea
+06.19,Museum cases.,Unspecified,
+06.20,Probability maps as translucent overlays.,"Technical, cutaway and cartographic",
+07.01,"Broad landscape panels and detailed maintenance work, so scale emerges slowly.",Unspecified,Gradual change across the book; Page or panel geometry carries the idea
+07.02,Microscopic scenes drawn as civic chambers.,Unspecified,
+07.03,Botanical illustration.,"Illustration, folk and decorative",
+07.04,Fine hatching.,"Ink, engraving and print",
+07.05,Circular page flow.,Unspecified,Page or panel geometry carries the idea
+07.06,Subterranean chiaroscuro.,Charcoal and monochrome,
+07.07,Paired panel borders.,Unspecified,Paired or parallel contrast; Page or panel geometry carries the idea
+07.08,Cutaway mound architecture.,"Technical, cutaway and cartographic",
+07.09,Flow-line watercolor.,"Watercolor, gouache and painted",
+07.10,Pastoral panels with notched boundaries.,Unspecified,Page or panel geometry carries the idea
+07.11,Root-level cross-sections.,"Technical, cutaway and cartographic",
+07.12,Panels with different frame rates.,Unspecified,Page or panel geometry carries the idea
+07.13,Map areas shrinking.,"Ink, engraving and print",Gradual change across the book
+07.14,Web diagrams over meadows.,"Technical, cutaway and cartographic",
+07.15,Two color regimes.,Unspecified,Paired or parallel contrast
+07.16,Seasonal overlays.,Unspecified,
+07.17,Feather studies.,"Illustration, folk and decorative",
+07.18,Valley maps changing across spreads.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+07.19,Field-guide plates that multiply.,"Illustration, folk and decorative",Gradual change across the book
+07.20,Pavement cracks opening.,"Illustration, folk and decorative",Gradual change across the book
+08.01,Limited cold palette; the brief summer is the decisive visual event.,Charcoal and monochrome,
+08.02,Gray washes with one lamp per panel.,"Watercolor, gouache and painted",Page or panel geometry carries the idea; Single constant object or colour as anchor
+08.03,"Windmills in rows, with gaps for what passes through.",Unspecified,
+08.04,"Water lines on a long wall, repeated across spreads.",Unspecified,Repetition with variation; Page or panel geometry carries the idea
+08.05,Dim interiors lit by clock faces.,"Realism, reportage and cinematic",
+08.06,"Blue-white panels, one hinge-shaped composition.",Unspecified,Page or panel geometry carries the idea; Single constant object or colour as anchor
+08.07,Almanac woodcuts.,"Ink, engraving and print",
+08.08,Palette that stays still until a sudden break.,Charcoal and monochrome,
+08.09,Storm skies; electric lines as panel borders.,Unspecified,Page or panel geometry carries the idea
+08.10,Dry and wet halves of one page.,Unspecified,Page or panel geometry carries the idea; Single constant object or colour as anchor
+08.11,Tank levels as gauges in the gutters.,Unspecified,Page or panel geometry carries the idea
+08.12,"Vertical, white-dominated panels.",Unspecified,Page or panel geometry carries the idea
+08.13,Branching trajectories over a map.,"Technical, cutaway and cartographic",
+08.14,"Warm sepia, grain increasing.",Unspecified,Gradual change across the book
+08.15,Tidal flats mapped at both extremes.,"Technical, cutaway and cartographic",
+08.16,Glass geometry with fogged panels.,Unspecified,Page or panel geometry carries the idea
+08.17,Ledgers and ice-shattered windows.,"Document, ledger and typographic",
+08.18,Shadow-length panels.,Unspecified,Page or panel geometry carries the idea
+08.19,Orchard rows in different seasons.,Unspecified,
+08.20,Dark pages with luminous veils.,Unspecified,Page or panel geometry carries the idea
+09.01,Chart lines that drift off the map.,"Technical, cutaway and cartographic",Gradual change across the book
+09.02,Route overlays on a hand-drawn region.,Unspecified,
+09.03,Timelines as ship wakes.,Unspecified,
+09.04,Field patterns against seed packets.,Unspecified,Paired or parallel contrast
+09.05,Letters in paired panels.,"Document, ledger and typographic",Paired or parallel contrast; Page or panel geometry carries the idea
+09.06,Coastal maps with a single traced line.,"Technical, cutaway and cartographic",Single constant object or colour as anchor
+09.07,Globe-to-flat transitions.,Unspecified,
+09.08,Island diagrams as game boards.,"Technical, cutaway and cartographic",
+09.09,Aerial views of the line forming.,"Technical, cutaway and cartographic",
+09.10,Alternating panels with growing gaps.,Unspecified,Gradual change across the book; Paired or parallel contrast; Page or panel geometry carries the idea
+09.11,Interior cutaways of a single craft.,"Technical, cutaway and cartographic",Single constant object or colour as anchor
+09.12,Charts with marginal arithmetic.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+09.13,Calendar arcs.,"Document, ledger and typographic",
+09.14,Cabin interiors lit by lamps.,"Realism, reportage and cinematic",
+09.15,Sky panels with scent trails.,Unspecified,Page or panel geometry carries the idea
+09.16,Table and horizon.,Unspecified,
+09.17,"Panoramic, near-wordless pages.",Unspecified,Page or panel geometry carries the idea
+09.18,Overlapping calendars as page margins.,"Document, ledger and typographic",Page or panel geometry carries the idea
+09.19,Maps rotating between scenes.,"Technical, cutaway and cartographic",
+09.20,Circular layouts.,Unspecified,Page or panel geometry carries the idea
+10.01,Maps cut into strips.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+10.02,Document facsimiles.,"Document, ledger and typographic",
+10.03,"Shelves of forms, stamped in conflict.","Document, ledger and typographic",
+10.04,Overlaid maps across decades.,"Technical, cutaway and cartographic",
+10.05,Zoom-in panels of one edge.,Unspecified,Page or panel geometry carries the idea; Single constant object or colour as anchor
+10.06,Night crossings in repeating scenes.,Unspecified,Repetition with variation
+10.07,Route maps with tangled threads.,"Technical, cutaway and cartographic",
+10.08,Waiting-room panels in rows.,Unspecified,Page or panel geometry carries the idea
+10.09,Grid maps shifting block by block.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+10.10,Forms with blank fields.,"Document, ledger and typographic",
+10.11,Edge-focused compositions.,Unspecified,
+10.12,Market stalls linked by arrows.,"Ink, engraving and print",
+10.13,Folded paper tickets.,Unspecified,
+10.14,Maritime charts.,"Technical, cutaway and cartographic",
+10.15,Close-ups of machine-readable lines.,Unspecified,
+10.16,Symmetrical standoff.,Unspecified,
+10.17,Charts as barbed wire.,"Technical, cutaway and cartographic",
+10.18,Waiting rooms under bright light.,Unspecified,
+10.19,Patchwork maps.,"Technical, cutaway and cartographic",
+10.20,Timetables as architecture.,"Document, ledger and typographic",
+11.01,Restrained central panels surrounded by margins that gradually develop their own continuous action.,Unspecified,Gradual change across the book; Page or panel geometry carries the idea
+11.02,Intimate ink portraits with recurring objects carrying the omitted meanings.,"Ink, engraving and print",Repetition with variation
+11.03,Long conversational panels punctuated by conspicuously empty balloons.,Unspecified,Paired or parallel contrast; Page or panel geometry carries the idea
+11.04,Dictionary columns opening into domestic scenes.,"Document, ledger and typographic",Gradual change across the book
+11.05,Fragmented compositions that resolve into a readable scene when the necessary shares meet.,Unspecified,Gradual change across the book
+11.06,Festive woodcuts with lettering that changes as it crosses each spread.,"Ink, engraving and print",Page or panel geometry carries the idea
+11.07,Alternating portrait panels joined by shared visual motifs.,Unspecified,Paired or parallel contrast; Page or panel geometry carries the idea
+11.08,Parallel sequences showing the same objects interpreted differently.,Unspecified,Repetition with variation; Paired or parallel contrast
+11.09,Sentence branches echoed in diverging household scenes.,Unspecified,
+11.10,Precise naturalism with an adjacent panel revealing what each statement leaves out.,"Realism, reportage and cinematic",Page or panel geometry carries the idea
+11.11,Radio-room realism with compact lettering whose spacing becomes dramatically important.,"Realism, reportage and cinematic",
+11.12,Formal doorway compositions whose symmetry gradually breaks.,Unspecified,Gradual change across the book
+11.13,The same scene rendered repeatedly in sharply different visual registers.,Unspecified,Repetition with variation
+11.14,Three drawing traditions depicting the mountain from different approaches.,Unspecified,Paired or parallel contrast
+11.15,Quiet interiors with one repeated phrase appearing in increasingly alien settings.,"Realism, reportage and cinematic",Gradual change across the book; Repetition with variation; Single constant object or colour as anchor
+11.16,Loose childhood drawings set against rigid municipal illustrations.,"Illustration, folk and decorative",Paired or parallel contrast
+11.17,Repeated writing-desk scenes with increasing seasonal distance.,Unspecified,Gradual change across the book; Repetition with variation
+11.18,Unified performance panels contrasted with distinct scenes of private rehearsal.,Unspecified,Paired or parallel contrast; Page or panel geometry carries the idea
+11.19,Sparse travel panels interrupted by dense blocks of marks.,Unspecified,Paired or parallel contrast; Page or panel geometry carries the idea
+11.20,"Almost wordless pages emphasizing hands, posture, and distance.",Unspecified,Page or panel geometry carries the idea
+12.01,Street elevations with inhabited interiors gradually emerging behind blank windows.,"Technical, cutaway and cartographic",Gradual change across the book
+12.02,Silver-toned realism with expanding frames.,"Realism, reportage and cinematic",Gradual change across the book; Page or panel geometry carries the idea
+12.03,Document collage with overlapping portraits that slowly separate.,"Document, ledger and typographic",Gradual change across the book
+12.04,Five parallel interview sequences sharing one concealed image.,Unspecified,Paired or parallel contrast; Single constant object or colour as anchor
+12.05,Detailed object studies alternating with terse official forms.,"Document, ledger and typographic",Paired or parallel contrast
+12.06,Layered annotations with each revision retaining its own ink.,"Ink, engraving and print",
+12.07,Burned edges surrounding immaculate documents.,"Document, ledger and typographic",
+12.08,Clearly drawn endpoints separated by competing visual sequences.,Unspecified,
+12.09,Painted portraits beside restrained contemporary scenes.,"Watercolor, gouache and painted",Paired or parallel contrast
+12.10,"Threads connecting addresses, changing color with the year.",Unspecified,
+12.11,Courtroom panels organized around an unoccupied chair.,Unspecified,Page or panel geometry carries the idea
+12.12,"Repeated portraits in intersecting lists, each gaining individual detail.",Unspecified,Repetition with variation
+12.13,Engraved inventions surrounded by changing archive shelves.,"Ink, engraving and print",
+12.14,Botanical family trees becoming distinct layered networks.,"Illustration, folk and decorative",Gradual change across the book; Paired or parallel contrast
+12.15,Repeated scenes whose background details subtly change.,Unspecified,Repetition with variation
+12.16,Quiet warehouse perspectives with contrasting imagined contents.,Unspecified,Paired or parallel contrast
+12.17,Stone-cut lettering beside provisional pencil marks.,"Watercolor, gouache and painted",Paired or parallel contrast
+12.18,Identical scenes revisited in different sequences.,Unspecified,Repetition with variation
+12.19,Restrained cemetery scenes with close attention to hands and inscriptions.,Unspecified,
+12.20,Dense simultaneous panels interrupted by ordinary moments that no instrument captured.,"Technical, cutaway and cartographic",Paired or parallel contrast; Page or panel geometry carries the idea
+13.01,"A shared opening followed by distinct, interwoven domestic trajectories.",Unspecified,Gradual change across the book; Paired or parallel contrast
+13.02,Expansive river views and recurring crossing compositions.,Unspecified,Repetition with variation
+13.03,Historical interiors bordered by overlapping date systems.,"Realism, reportage and cinematic",Page or panel geometry carries the idea
+13.04,Textile patterns expressing diverging workshop traditions.,"Illustration, folk and decorative",Page or panel geometry carries the idea
+13.05,Maritime panoramas gradually crowded into compressed panels.,Unspecified,Gradual change across the book; Page or panel geometry carries the idea
+13.06,Formal diplomatic scenes contrasted with everyday consequences at home.,Unspecified,Paired or parallel contrast
+13.07,Rural realism with the well recurring through seasonal and generational changes.,"Realism, reportage and cinematic",Repetition with variation
+13.08,Manuscript detail alternating with transformed streets.,"Document, ledger and typographic",Paired or parallel contrast
+13.09,Paired riverbank panoramas changing over decades.,Unspecified,Paired or parallel contrast
+13.10,Chamber scenes revisited with altered speaker sequences.,Unspecified,Repetition with variation
+13.11,Bright reopening scenes giving way to separated domestic panels.,Unspecified,Gradual change across the book; Page or panel geometry carries the idea
+13.12,Wide landscapes interrupted by practical repairs and resource counts.,Unspecified,Paired or parallel contrast
+13.13,Two lettering traditions sharing continuous scenes.,"Document, ledger and typographic",Paired or parallel contrast
+13.14,Industrial drawing with page rhythms tied to changing shifts.,Unspecified,Page or panel geometry carries the idea
+13.15,Letterpress pages dissolving into private scenes beyond the newspaper’s view.,"Ink, engraving and print",Page or panel geometry carries the idea
+13.16,Technical watercolors contrasting vessel scale with waiting lines.,"Watercolor, gouache and painted",Paired or parallel contrast
+13.17,Public assemblies intercut with classrooms and kitchens.,"Illustration, folk and decorative",Paired or parallel contrast
+13.18,Fine instrument drawings against expansive night skies.,"Technical, cutaway and cartographic",Paired or parallel contrast
+13.19,Matched opening compositions that develop into distinct environments.,Unspecified,Gradual change across the book; Repetition with variation; Paired or parallel contrast
+13.20,Recurring border-market scenes whose exchanges and spatial relationships gradually change.,Unspecified,Gradual change across the book; Repetition with variation; Page or panel geometry carries the idea
+14.01,"Nocturnal urban realism, with illuminated areas gradually joining into continuous space.","Realism, reportage and cinematic",Gradual change across the book
+14.02,"Muted office interiors interrupted by vivid, incomplete remembered scenes.","Realism, reportage and cinematic",Paired or parallel contrast
+14.03,Brutalist charcoal interiors with recurring junctions drawn from different perspectives.,Charcoal and monochrome,Repetition with variation
+14.04,"Warm commercial illustration, with overlapping errands woven through one neighborhood.","Illustration, folk and decorative",Single constant object or colour as anchor
+14.05,Dense market scenes crossed by fine colored lines.,Unspecified,
+14.06,Two contrasting domestic palettes gradually entering each other’s pages.,Charcoal and monochrome,Gradual change across the book; Paired or parallel contrast; Page or panel geometry carries the idea
+14.07,Careful architectural cutaways paired with expressive community scenes.,"Technical, cutaway and cartographic",Paired or parallel contrast
+14.08,Rich domestic colors gradually overtaken by polished metallic surfaces.,Unspecified,Gradual change across the book
+14.09,Repeating diagonal compositions with small changes in fatigue and damage.,Unspecified,Repetition with variation
+14.10,Festive illustration with attention repeatedly drawn away from quiet background work.,"Illustration, folk and decorative",Repetition with variation
+14.11,"Tactile paper textures and restrained interiors, with unopened packages remaining visually prominent.","Realism, reportage and cinematic",Page or panel geometry carries the idea
+14.12,"River-town watercolors, with passengers’ separate journeys intersecting aboard the ferry.","Watercolor, gouache and painted",
+14.13,Nearly identical workstation panels contrasted with changing private interiors.,"Realism, reportage and cinematic",Repetition with variation; Paired or parallel contrast; Page or panel geometry carries the idea
+14.14,Winter interiors illuminated by sharply different sources of warmth.,"Realism, reportage and cinematic",
+14.15,Ornate textile borders becoming progressively finer until they meet the limits of the page.,"Illustration, folk and decorative",Gradual change across the book; Page or panel geometry carries the idea
+14.16,Bright vertical cityscapes with increasing glare and softened edges.,Unspecified,Gradual change across the book
+14.17,"Fine fashion illustration, with seams linking predictions to later actions.","Ink, engraving and print",
+14.18,Exuberant kitchen scenes growing crowded around a few overworked stations.,"Illustration, folk and decorative",Gradual change across the book
+14.19,"Ground-level views emphasizing feet, surfaces, and changing movement.",Unspecified,
+14.20,Folk-art performance scenes interwoven with contemporary preparations.,"Illustration, folk and decorative",Paired or parallel contrast
+15.01,Detailed hand studies with movement becoming progressively more assured.,Unspecified,Gradual change across the book
+15.02,Architectural drawings integrated with scenes of actual movement.,"Technical, cutaway and cartographic",
+15.03,Expressive motion drawing with stable visual anchors appearing and disappearing.,Unspecified,Single constant object or colour as anchor
+15.04,"Tailoring diagrams beside varied, individually rendered bodies.","Technical, cutaway and cartographic",Paired or parallel contrast
+15.05,Close-up craft panels with deliberate changes in density and duration.,Unspecified,Page or panel geometry carries the idea
+15.06,Elegant portrait studies contrasted with technical fitting scenes.,"Technical, cutaway and cartographic",Paired or parallel contrast
+15.07,"Precise mechanical drawings grounded in ordinary kitchens, streets, and workplaces.","Illustration, folk and decorative",
+15.08,Playful workshop illustration with increasingly elaborate internal supports.,"Illustration, folk and decorative",Gradual change across the book
+15.09,Rich hand-and-keyboard studies with rhythm carried by panel spacing.,Unspecified,Page or panel geometry carries the idea
+15.10,Sweeping race scenes interrupted by intimate bodily perceptions.,Unspecified,Paired or parallel contrast
+15.11,"Tactile close-ups, embossed textures, and spacious reading sequences.",Unspecified,Page or panel geometry carries the idea
+15.12,Broad hall compositions punctuated by individual perspectives and interrupted sightlines.,Unspecified,Paired or parallel contrast
+15.13,Expressive theatrical realism with lettering that gradually acquires a new rhythm.,"Realism, reportage and cinematic",Gradual change across the book; Page or panel geometry carries the idea
+15.14,Repeated building sections tracing contrasting journeys.,"Technical, cutaway and cartographic",Repetition with variation; Paired or parallel contrast
+15.15,Matched compositions whose bodily movements increasingly diverge.,Unspecified,Gradual change across the book; Repetition with variation
+15.16,Gentle domestic illustration with dated patterns layered across the worktable.,"Illustration, folk and decorative",
+15.17,"Industrial realism attentive to posture, pauses, and subtle expressions.","Realism, reportage and cinematic",
+15.18,Coastal ink-and-watercolor scenes emphasizing ground texture and wheel contact.,"Ink, engraving and print",
+15.19,Sparse stage scenes with generous gutters and carefully paced lettering.,"Document, ledger and typographic",Page or panel geometry carries the idea
+15.20,"Painterly studio scenes alongside successive, visibly distinct portrait states.","Watercolor, gouache and painted",Repetition with variation; Paired or parallel contrast
+16.01,Intimate domestic realism with contrasting warm and cold zones.,"Realism, reportage and cinematic",Paired or parallel contrast
+16.02,Parallel lives connected by recurring letters and imagined future scenes.,"Document, ledger and typographic",Repetition with variation; Paired or parallel contrast
+16.03,The same locations revisited through distinct colors and framing.,Unspecified,Repetition with variation; Paired or parallel contrast
+16.04,Botanical realism with the garden changing through negotiated use.,"Realism, reportage and cinematic",
+16.05,Familiar café scenes revisited with newly revealed private perspectives.,Unspecified,Repetition with variation
+16.06,Contrasting map traditions integrated into continuous travel scenes.,"Technical, cutaway and cartographic",Paired or parallel contrast
+16.07,Seasonal domestic sequences with one prepared room remaining unused.,Unspecified,Single constant object or colour as anchor
+16.08,Flowing performance panels alongside exact workshop geometry.,Unspecified,Paired or parallel contrast; Page or panel geometry carries the idea
+16.09,Warm ensemble scenes with private visual motifs gradually made legible.,Unspecified,Gradual change across the book
+16.10,Domestic scenes interleaved with a ledger whose entries acquire unexpected contexts.,"Document, ledger and typographic",Paired or parallel contrast
+16.11,Restrained suspense with contrasting imagined explanations surrounding the same observed scene.,Unspecified,Repetition with variation; Paired or parallel contrast
+16.12,Intimate realism with page rhythms reflecting mismatched cycles.,"Realism, reportage and cinematic",Repetition with variation; Page or panel geometry carries the idea
+16.13,Attentive domestic panels centered on ordinary objects and subtle routines.,Unspecified,Page or panel geometry carries the idea
+16.14,Expressive studio scenes interwoven with competing fictional sequences.,Unspecified,Paired or parallel contrast
+16.15,"Bright preparations contrasted with the recipient’s narrower, increasingly troubling perspective.",Unspecified,Gradual change across the book; Paired or parallel contrast
+16.16,Matched preparation scenes followed by differently paced lives.,Unspecified,Repetition with variation
+16.17,Long domestic panels where posture and distance carry the changing tension.,Unspecified,Page or panel geometry carries the idea
+16.18,Detailed object studies paired with photographs and present-day encounters.,Unspecified,Paired or parallel contrast
+16.19,Recurring table scenes with the consequences unfolding between meetings.,Unspecified,Repetition with variation
+16.20,Two visually distinct workshops connected by carefully paced visits and shared projects.,Unspecified,Paired or parallel contrast
+17.01,Hard-edged monochrome panels separated by conspicuously unequal gutters.,Charcoal and monochrome,Page or panel geometry carries the idea
+17.02,Intricate copperplate machinery against restrained courtroom realism.,"Ink, engraving and print",Paired or parallel contrast
+17.03,Claustrophobic scratchboard interiors with statements recurring beside altered scenes.,"Ink, engraving and print",Repetition with variation; Paired or parallel contrast
+17.04,Social realism with archival scenes retaining their original visual context.,"Realism, reportage and cinematic",
+17.05,Ornate detective illustration gradually simplified as unsupported connections disappear.,"Illustration, folk and decorative",Gradual change across the book
+17.06,"Typewriter textures, close portraits, and repeated passages appearing in different hands.","Document, ledger and typographic",Repetition with variation
+17.07,Precise dollhouse interiors interrupted by ordinary work occurring outside the assumed timeline.,"Realism, reportage and cinematic",Paired or parallel contrast
+17.08,"Cold transit photography rendered in ink, with crowded portrait contact sheets.","Ink, engraving and print",Gradual change across the book
+17.09,Vivid street reportage contrasted with progressively revised maps.,"Technical, cutaway and cartographic",Gradual change across the book; Paired or parallel contrast
+17.10,Luminous painted surfaces alternating with intimate workshop scenes.,"Watercolor, gouache and painted",Paired or parallel contrast
+17.11,Austere ledger realism with numerical patterns becoming visible through ordinary transactions.,"Realism, reportage and cinematic",Gradual change across the book
+17.12,"Chamber drama in warm lamplight, following one box through successive rooms.",Unspecified,Repetition with variation; Single constant object or colour as anchor
+17.13,Stark bureaucratic realism with repeated routes progressively blocked.,"Realism, reportage and cinematic",Gradual change across the book; Repetition with variation
+17.14,Noir close-ups and alternating interview rooms with sharply distinct shadows.,"Realism, reportage and cinematic",Paired or parallel contrast
+17.15,Industrial wash drawings revisiting the same event at several scales.,"Watercolor, gouache and painted",Repetition with variation
+17.16,Quiet financial-office realism with small marks accumulating across successive pages.,"Realism, reportage and cinematic",Gradual change across the book; Repetition with variation; Page or panel geometry carries the idea
+17.17,Miniature realism with alternative arrangements clearly distinguished.,"Realism, reportage and cinematic",
+17.18,"Elegant office drama centered on paper, hands, and seals.",Unspecified,
+17.19,Precise object portraits surrounded by changing commercial contexts.,Unspecified,
+17.20,"Restrained courtroom naturalism followed by crowded, emotionally charged domestic scenes.","Realism, reportage and cinematic",Gradual change across the book
+18.01,Luxurious still-life illustration with increasingly sterile symmetry.,"Illustration, folk and decorative",Gradual change across the book
+18.02,Editorial caricature with sumptuous imagined books contrasted with an unfinished desk.,"Caricature, cartoon and farce",Paired or parallel contrast
+18.03,Bright market satire with increasingly extravagant storefronts.,"Caricature, cartoon and farce",Gradual change across the book
+18.04,Polished advertising illustration slowly exposing the crowded workshop behind it.,"Illustration, folk and decorative",Gradual change across the book
+18.05,Warm ensemble drawings intersected by increasingly rigid written accounts.,Unspecified,Gradual change across the book
+18.06,Tactile bakery realism with inventories contrasted against an empty cash drawer.,"Realism, reportage and cinematic",Paired or parallel contrast; Page or panel geometry carries the idea
+18.07,Rich object-centered painting with subtle material differences and distinct surrounding memories.,"Watercolor, gouache and painted",Paired or parallel contrast
+18.08,Exuberant street comedy with the line winding through successive spreads.,"Caricature, cartoon and farce",Repetition with variation; Page or panel geometry carries the idea
+18.09,Elegant empty rooms contrasted with lively informal performances.,Unspecified,Paired or parallel contrast
+18.10,Dense industrial panoramas punctuated by identical guarantee certificates.,Unspecified,Repetition with variation; Paired or parallel contrast
+18.11,Elastic sporting caricature with exaggerated pauses and reversals.,"Caricature, cartoon and farce",
+18.12,Social realism contrasting polished dossiers with varied living circumstances.,"Realism, reportage and cinematic",Paired or parallel contrast
+18.13,Colorful studio interiors gradually juxtaposed with emptied neighboring homes.,"Realism, reportage and cinematic",Gradual change across the book; Paired or parallel contrast
+18.14,Bold screenprint aesthetics with repeated images placed in sharply different settings.,"Ink, engraving and print",Repetition with variation
+18.15,Detailed craft illustration with the workshop increasingly crowded by auxiliary equipment.,"Illustration, folk and decorative",Gradual change across the book
+18.16,Patient urban realism with recurring doorways and seasonal waiting scenes.,"Realism, reportage and cinematic",Repetition with variation
+18.17,"Brilliant performance posters surrounding small, attentive storytelling scenes.",Unspecified,
+18.18,Decorative celebration imagery contrasted with restrained household accounting scenes.,"Illustration, folk and decorative",Paired or parallel contrast
+18.19,Sweeping marine engineering vistas alongside increasingly abstract sales imagery.,Unspecified,Gradual change across the book; Paired or parallel contrast
+18.20,Dry architectural comedy with one imposing sculpture recurring in unsuitable spaces.,"Technical, cutaway and cartographic",Repetition with variation; Single constant object or colour as anchor
+19.01,Broad pastoral gouache with increasingly disconnected interior scenes.,"Watercolor, gouache and painted",Gradual change across the book
+19.02,"Industrial ink drawing with bright functional areas surrounded by quiet, dark machinery.","Ink, engraving and print",
+19.03,Expressive musical drawing contrasting cramped familiarity with imposing empty space.,Unspecified,Paired or parallel contrast
+19.04,Quiet landscape painting with the crucial intake position revealed through close detail.,"Watercolor, gouache and painted",
+19.05,"Warm commercial illustration giving way to increasingly spacious, empty streets.","Illustration, folk and decorative",Gradual change across the book
+19.06,Rural technical realism with repairs embedded in decades of altered architecture.,"Technical, cutaway and cartographic",Paired or parallel contrast
+19.07,Intimate winter interiors with the reserve represented through tangible stored supplies.,"Realism, reportage and cinematic",
+19.08,Fine book illustration with orderly records contrasting against scattered physical collections.,"Illustration, folk and decorative",Paired or parallel contrast
+19.09,Earth-toned landscape painting with distinct visual regimes for the land’s changing condition.,"Watercolor, gouache and painted",Paired or parallel contrast
+19.10,Rich theatrical interiors with the obstructed passage recurring quietly until the decisive inspection.,"Realism, reportage and cinematic",Repetition with variation
+19.11,Domestic naturalism with background defects slowly becoming central.,"Realism, reportage and cinematic",Gradual change across the book
+19.12,Coastal realism with official lettering becoming visually intrusive and unreadable within everyday scenes.,"Realism, reportage and cinematic",Gradual change across the book
+19.13,Detailed workshop scenes gradually stripped down to bare architecture.,Unspecified,Gradual change across the book; Page or panel geometry carries the idea
+19.14,Lively imagined market scenes alternating with the actual quiet hall.,Unspecified,Paired or parallel contrast
+19.15,Restrained contemporary realism with remembered photographs appearing only in fragments.,"Realism, reportage and cinematic",Gradual change across the book
+19.16,Dark civic interiors linked by improvised pools of light.,"Ink, engraving and print",
+19.17,Warm printed textures transitioning into fragmented personal screens.,Unspecified,Gradual change across the book
+19.18,"Expansive valley painting contrasted with difficult, ground-level detours.","Watercolor, gouache and painted",Paired or parallel contrast
+19.19,Decorative folk illustration with preparations receiving as much attention as the celebration.,"Illustration, folk and decorative",
+19.20,"Quiet, precise environmental drawing, ending with a modest usable space rather than a restored whole.",Unspecified,
+20.01,Exuberant editorial caricature with a procession winding through increasingly crowded spreads.,"Caricature, cartoon and farce",Gradual change across the book; Page or panel geometry carries the idea
+20.02,Elegant comic ink drawing with extravagant hats and repeated cloakroom compositions.,"Ink, engraving and print",Repetition with variation
+20.03,Grand architectural farce with corridors extending beyond the page.,"Technical, cutaway and cartographic",Page or panel geometry carries the idea
+20.04,Bright commercial illustration with rigid layouts disrupted by unruly incidents.,"Illustration, folk and decorative",Page or panel geometry carries the idea
+20.05,Rounded culinary cartooning with lavishly distinct outcomes from repeated ingredients.,"Caricature, cartoon and farce",Repetition with variation; Paired or parallel contrast
+20.06,Mock-noir scratchboard with domestic objects receiving absurdly dramatic lighting.,"Ink, engraving and print",
+20.07,Pastoral comic painting with lavishly contrasting picnic arrangements.,"Watercolor, gouache and painted",Paired or parallel contrast
+20.08,Brisk romantic farce with increasingly crowded station and ceremony scenes.,"Caricature, cartoon and farce",Gradual change across the book
+20.09,Bold bistro caricature with table arrangements changing across regular panels.,"Caricature, cartoon and farce",Page or panel geometry carries the idea
+20.10,Sophisticated social comedy contrasting ornate correspondence with unchanged habits.,"Caricature, cartoon and farce",Paired or parallel contrast
+20.11,Playful sculptural caricature beside warmly individualized villagers.,"Caricature, cartoon and farce",Paired or parallel contrast
+20.12,Energetic street cartooning with elaborate badges and proliferating queue barriers.,"Caricature, cartoon and farce",
+20.13,Rustic comic engraving with hypothetical goats intruding into increasingly literal scenes.,"Ink, engraving and print",Gradual change across the book
+20.14,Elastic musical caricature with conflicting gestures and page rhythms.,"Caricature, cartoon and farce",Page or panel geometry carries the idea
+20.15,Elegant absurdist theatre scenes dominated by expressive pauses.,"Caricature, cartoon and farce",
+20.16,Busy civic farce with props and real failures becoming visually difficult to distinguish.,"Caricature, cartoon and farce",Gradual change across the book
+20.17,Fashion cartooning with precise material detail and increasingly improbable repairs.,"Caricature, cartoon and farce",Gradual change across the book; Paired or parallel contrast
+20.18,Bureaucratic caricature with desks and assistants multiplying through successive spreads.,"Caricature, cartoon and farce",Gradual change across the book; Repetition with variation; Page or panel geometry carries the idea
+20.19,Colorful fairground illustration with increasingly deflated prophetic spectacles.,"Illustration, folk and decorative",Gradual change across the book
+20.20,Affectionate retro invention art with glorious machines beside stubbornly useless contraptions.,Unspecified,Paired or parallel contrast
+21.01,Surreal architectural lithography with streets stretching through familiar interiors.,"Ink, engraving and print",Gradual change across the book
+21.02,Sparse dreamlike painting with sharply rendered objects and conspicuous absences.,"Watercolor, gouache and painted",
+21.03,Fine surreal engraving with stair treads becoming impossibly intricate.,"Ink, engraving and print",Gradual change across the book
+21.04,Jewel-toned market scenes with boards continually repainting themselves.,"Watercolor, gouache and painted",
+21.05,Repeated botanical compositions with tiny deliberate alterations becoming crucial.,"Illustration, folk and decorative",Gradual change across the book; Repetition with variation
+21.06,Tender surreal watercolor with recurring weights appearing in different forms.,"Watercolor, gouache and painted",Repetition with variation
+21.07,Opulent geometric architecture with provisional rooms rendered in translucent washes.,"Watercolor, gouache and painted",
+21.08,Fluid panoramic painting with watercourses folding across page boundaries.,"Watercolor, gouache and painted",Page or panel geometry carries the idea
+21.09,Decorative botanical art alternating saturated blossoms with cut-paper voids.,"Illustration, folk and decorative",Paired or parallel contrast
+21.10,Dreamlike domestic realism with reflections retaining the previous page’s appearance.,"Realism, reportage and cinematic",Page or panel geometry carries the idea
+21.11,Intricate close-ups shrinking toward an expansive final doorway.,"Ink, engraving and print",Gradual change across the book
+21.12,Luminous coastal painting with paired compositions gradually developing distinct details.,"Watercolor, gouache and painted",Gradual change across the book; Paired or parallel contrast
+21.13,Atmospheric gouache with ordinary objects revealing forgotten agreements.,"Watercolor, gouache and painted",
+21.14,"Dense typographic fantasy with small, intimate scenes emerging from selected passages.","Document, ledger and typographic",
+21.15,Meticulous miniature painting with increasingly immense textures and everyday objects.,"Watercolor, gouache and painted",Gradual change across the book
+21.16,Soft painted scenes growing formally immaculate and personally anonymous.,"Watercolor, gouache and painted",Gradual change across the book
+21.17,Brilliant fairground printmaking with recurring tickets and transformed combinations.,"Ink, engraving and print",Repetition with variation
+21.18,Quiet uncanny interiors with recurring doors leading into unexpected compositions.,"Realism, reportage and cinematic",Repetition with variation
+21.19,Expansive pastoral fantasy with repeated mornings diverging through small details.,Surreal and fantasy,Repetition with variation
+21.20,A richly varied fantasy world whose visual motifs transform together when its rule changes.,Surreal and fantasy,
+22.01,Silent ceramic-and-watercolor studies with the cup recurring at a consistent visual scale.,"Watercolor, gouache and painted",Repetition with variation; Single constant object or colour as anchor
+22.02,Fixed-view urban ink drawing with careful changes inside otherwise stable compositions.,"Ink, engraving and print",
+22.03,Restrained monochrome scenes with the coat as the sole saturated color.,Charcoal and monochrome,Single constant object or colour as anchor
+22.04,Architectural gouache with recurring compositions and seasonally changing light.,"Watercolor, gouache and painted",Repetition with variation
+22.05,Continuous watercolor transitions grounded in ordinary acts of use.,"Watercolor, gouache and painted",
+22.06,Quiet backstage charcoal with brief remnants of theatrical color.,Charcoal and monochrome,
+22.07,Distinct palettes and drawing treatments anchored by one identical opening composition.,Charcoal and monochrome,Gradual change across the book; Repetition with variation; Paired or parallel contrast; Single constant object or colour as anchor
+22.08,Folk engraving with repeated ringing gestures and sharply different responses.,"Ink, engraving and print",Repetition with variation
+22.09,Detailed woodworking studies with generational changes in surrounding interiors.,"Realism, reportage and cinematic",
+22.10,"Long, horizontal ensemble panels with the viewpoint migrating steadily along the line.",Unspecified,Page or panel geometry carries the idea
+22.11,Warm painterly domestic scenes culminating in one formally composed image.,"Watercolor, gouache and painted",Single constant object or colour as anchor
+22.12,Expansive botanical painting with repeated attention to empty branches.,"Watercolor, gouache and painted",Repetition with variation
+22.13,Travel scenes joined through tactile paper textures and changing map fragments.,"Technical, cutaway and cartographic",Gradual change across the book; Page or panel geometry carries the idea
+22.14,Dark architectural painting with isolated windows forming the page’s rhythm.,"Watercolor, gouache and painted",Page or panel geometry carries the idea
+22.15,Expressive theatrical ink drawing with costumes and scenery gradually returning to unfinished forms.,"Ink, engraving and print",Gradual change across the book
+22.16,Spacious urban watercolor with small objects receiving unusual compositional weight.,"Watercolor, gouache and painted",
+22.17,Three distinct visual rhythms converging at a common location.,Unspecified,Paired or parallel contrast; Page or panel geometry carries the idea
+22.18,Textile-inspired compositions connecting otherwise distinct domestic and working scenes.,"Illustration, folk and decorative",Paired or parallel contrast; Page or panel geometry carries the idea
+22.19,Quiet cinematic painting with each room’s distinctive palette fading into darkness.,"Watercolor, gouache and painted",Gradual change across the book; Paired or parallel contrast
+22.20,"A succession of graphic traditions connected by recurring objects, gestures, and compositions.",Unspecified,Repetition with variation

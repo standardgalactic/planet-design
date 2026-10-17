@@ -1,0 +1,24 @@
+# Steel Sky tooling container, built on flyxion/arch-minimal:v1.
+# Holds the Python tools (generate_collection.py, make_thumbs.py, monotonic_commit.py).
+# ComfyUI keeps running in its own container (profile "comfy").
+# Use another Arch image with --build-arg BASE=archlinux:latest
+ARG BASE=flyxion/arch-minimal:v1
+FROM ${BASE}
+
+USER root
+# A minimal image may have no initialised package keys. This is harmless if it does.
+RUN pacman-key --init && pacman-key --populate archlinux || true
+RUN pacman -Syu --noconfirm --needed \
+      shadow ca-certificates python python-pillow python-requests git less nano jq \
+    && pacman -Scc --noconfirm
+
+# Run as a normal user whose ids match yours, so files written to the mounted
+# project folder are not owned by root.
+ARG PUID=1000
+ARG PGID=1000
+RUN groupadd -g ${PGID} steel && useradd -m -u ${PUID} -g ${PGID} -s /bin/bash steel
+
+USER steel
+WORKDIR /work
+ENV PYTHONUNBUFFERED=1 COMFY_URL=http://host.docker.internal:7860
+CMD ["bash"]
