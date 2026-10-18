@@ -1,0 +1,133 @@
+{
+  "settings": {
+    "prompt": "futuristic coastal city, concrete terraces, curved glass, ocean mist, 1970s science fiction matte painting",
+    "negative": "text, watermark, logo, blurry, distorted, low quality",
+    "url": "http://127.0.0.1:7860",
+    "frames": 12,
+    "zoom": 1.06,
+    "denoise": 0.25,
+    "edge_lock": 0.12,
+    "edge_feather": 0.12,
+    "steps": 20,
+    "cfg": 4.0,
+    "seed": 12345,
+    "size": 512,
+    "focus_x": 0.5,
+    "focus_y": 0.5,
+    "checkpoint": "v1-5-pruned-emaonly.ckpt",
+    "source_sha256": "0486555f75533b79581c3afc575a4cde434ad7c6acdc0a80329c24f44bff9c3e"
+  },
+  "run_id": "c85e067007e64efc9ed93cb7c1067ff1",
+  "completed": 12,
+  "pending": null,
+  "outputs": [
+    {
+      "step": 1,
+      "prompt_id": "55a65393-5e94-41a7-b256-9f69c23a467d",
+      "remote": {
+        "filename": "step-0001_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 2,
+      "prompt_id": "9d208e64-3678-44bb-ba8e-8c83089f398a",
+      "remote": {
+        "filename": "step-0002_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 3,
+      "prompt_id": "426d3553-037f-40a5-9e02-1fdfce2b761d",
+      "remote": {
+        "filename": "step-0003_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 4,
+      "prompt_id": "516e4b2b-1ac4-493e-838c-de0f8e370e75",
+      "remote": {
+        "filename": "step-0004_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 5,
+      "prompt_id": "dda3fb67-8f01-45ba-9c85-46b089328919",
+      "remote": {
+        "filename": "step-0005_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 6,
+      "prompt_id": "64690e11-59ca-4cbd-9b21-821cd6e7d19e",
+      "remote": {
+        "filename": "step-0006_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 7,
+      "prompt_id": "9c04e611-7989-412e-b08f-08910b7a8ab8",
+      "remote": {
+        "filename": "step-0007_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 8,
+      "prompt_id": "dcadb963-1fad-4fee-b633-f8c8ffce6c91",
+      "remote": {
+        "filename": "step-0008_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 9,
+      "prompt_id": "85d2deaa-916e-43ba-9e9c-85bf6ce5dbae",
+      "remote": {
+        "filename": "step-0009_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 10,
+      "prompt_id": "1973e52e-4672-4433-b357-5d928afdb1c3",
+      "remote": {
+        "filename": "step-0010_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 11,
+      "prompt_id": "c914dec7-a185-4aba-9dcc-42d8f79dd8c9",
+      "remote": {
+        "filename": "step-0011_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    },
+    {
+      "step": 12,
+      "prompt_id": "8bc3e19c-7cca-42ee-8bc3-a3fecf923c91",
+      "remote": {
+        "filename": "step-0012_00001_.png",
+        "subfolder": "planet-design/zoom/c85e067007e64efc9ed93cb7c1067ff1",
+        "type": "output"
+      }
+    }
+  ]
+}

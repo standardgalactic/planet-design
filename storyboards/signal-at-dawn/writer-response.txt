@@ -1,0 +1,69 @@
+{"title": "Signal of the Botanical Station",
+"logline": "A maintenance worker uncovers an abandoned botanical station still broadcasting a mysterious signal, leading to unexpected revelations in a quiet coastal city.",
+"screenplay": "In the early morning light, a solitary figure in rugged overalls and a worn hat stands at the edge of an abandoned botanical station. The concrete walls are covered with moss and vines, hinting at its forgotten purpose. As the worker's binoculars scan the sky, a faint signal is detected emanating from the station. Curious, they approach cautiously, their shadow stretching long beside them. Inside, the air is still and humid, with remnants of plant life scattered across the floor. The maintenance worker discovers an old logbook detailing experiments that never reached fruition, accompanied by sketches of unknown flora. As dawn breaks, the signal's strength grows, drawing a crowd of curious onlookers who gather at the station's entrance. Among them is a local historian dressed in 1970s attire, both characters sharing a quiet conversation about the significance of the signal and its potential to unlock secrets of the past. The mystery unfolds as they explore the station together, leading to a resolution where the true purpose behind the signal is revealed through old photographs and notes, leaving viewers with a sense of wonder and connection to history. The scene ends softly at dusk, the city waking up around them, the light filtering through curved glass windows casting warm amber hues across the environment.",
+"shots": [
+  {
+    "number": 1,
+    "location": "Abandoned Botanical Station Entrance",
+    "duration_seconds": 15,
+    "action": "The maintenance worker stands at the entrance, binoculars in hand, looking up towards the sky with a determined expression on their face.",
+    "camera": "Establishing shot from ground level, slightly angled to show the moss-covered concrete and broken glass around the archway.",
+    "visual_prompt": "A silhouette of the worker against the rising sun, casting long shadows across the cracked entrance door."
+  },
+  {
+    "number": 2,
+    "location": "Botanical Station Interior",
+    "duration_seconds": 10,
+    "action": "The worker cautiously steps inside, eyes scanning for signs of life or activity within the dimly lit greenhouse.",
+    "camera": "Close-up shot from waist level as the worker moves through the station's interior, highlighting the overgrown plants and scattered equipment.",
+    "visual_prompt": "A faint glow emanating from behind a glass panel in one corner, hinting at an unknown source of light or energy."
+  },
+  {
+    "number": 3,
+    "location": "Logbook Discovery",
+    "duration_seconds": 12,
+    "action": "The worker picks up an old logbook and begins flipping through its pages, revealing sketches and notes about experiments that were never completed.",
+    "camera": "Medium shot focusing on the worker's hands as they leaf through the yellowed paper, with faint light filtering through a nearby window.",
+    "visual_prompt": "A page open to reveal detailed illustrations of unidentified plant species alongside handwritten annotations in a faded ink."
+  },
+  {
+    "number": 4,
+    "location": "Historian Encounter",
+    "duration_seconds": 10,
+    "action": "The worker meets the local historian, who shares knowledge about the station's past and the significance of its experiments.",
+    "camera": "Two-shot between the worker and historian seated at a small table with books scattered around, their faces reflecting curiosity and wonder.",
+    "visual_prompt": "Both characters dressed in period-appropriate attire, hands clasped together as they listen intently to each other's stories."
+  },
+  {
+    "number": 5,
+    "location": "Signal Visualization",
+    "duration_seconds": 12,
+    "action": "As the signal grows stronger, a holographic display appears on a nearby wall, showing patterns and data that correspond to the station's experiments.",
+    "camera": "Wide shot capturing the entire interior with the hologram in focus, illuminating the room with soft blue light.",
+    "visual_prompt": "A glowing diagram of waves or signals projected onto the concrete walls, suggesting communication beyond the physical realm."
+  },
+  {
+    "number": 6,
+    "location": "Consequence Revealed",
+    "duration_seconds": 15,
+    "action": "The historian explains that the signal could be a remnant from an ancient technology meant to communicate with extraterrestrial beings.",
+    "camera": "Establishing shot of the room as the worker leans in closer, captivated by the historian's words and the display around them.",
+    "visual_prompt": "A close-up of the historian's face showing excitement, with a faint line drawing on a nearby wall depicting what appears to be a star map or alien symbol."
+  },
+  {
+    "number": 7,
+    "location": "Resolution Moment",
+    "duration_seconds": 15,
+    "action": "Together, they decide to investigate further, marking the beginning of their quest to uncover the true meaning behind the signal.",
+    "camera": "Medium shot with a gentle tilt as both characters look towards an open window where dawn breaks over the city skyline.",
+    "visual_prompt": "The worker and historian standing together at the entrance, hands touching lightly, looking outwards toward the horizon where soft light begins to fill the sky."
+  },
+  {
+    "number": 8,
+    "location": "Dawn Over Coastal City",
+    "duration_seconds": 18,
+    "action": "As dawn fully emerges, the city awakens around them, and the mystery of the signal is left open-ended yet hopeful.",
+    "camera": "Establishing shot from a higher vantage point capturing the sunrise over the coastal horizon with the station in the distance.",
+    "visual_prompt": "The first light spilling through curved glass windows illuminating the room where the characters stand, casting long shadows and soft reflections on the floor."
+  }
+]}

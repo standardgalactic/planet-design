@@ -1,0 +1,76 @@
+{
+  "title": "Night Blooms",
+  "logline": "A curious gardener uncovers a hidden community within a sealed glass orchard, revealing ancient machinery and the secrets of fruit ripening overnight.",
+  "screenplay": "#EXTINT. SECLUDED GLASS ORCHARD, NIGHT\n#EXT. SECLUDED GLASS ORCHARD, NIGHT - 15 SEC\nA solitary gardener, dressed in worn overalls and a wide-brimmed hat, cautiously approaches the edge of the glass enclosure that houses an ancient orchard filled with fruit trees.\n\nVISUAL_PROMPT: Wide shot of the sealed glass orchard illuminated by warm amber light from within. The garden is surrounded by towering concrete walls adorned with rusted metal signs indicating 'No Entry'. Soft shadows cast by nearby street lamps highlight the contrast between the vibrant green leaves inside and the muted earth tones of the exterior.\n\n#EXT. SECLUDED GLASS ORCHARD, NIGHT - 15 SEC\nThe gardener peers through a gap in the glass wall, noticing that several fruits on the trees have begun to ripen overnight despite the sealed environment.\n\nVISUAL_PROMPT: Medium shot focusing on one ripe tomato hanging from a vine, its skin glistening with morning dew. The surrounding leaves are lush and green, emphasizing the unnatural state of the fruit against the still-dark background.\n\n#EXT. SECLUDED GLASS ORCHARD, NIGHT - 15 SEC\nThe gardener notices an ornate metal door at the far end of the orchard that appears to be slightly ajar, its surface etched with mysterious symbols and worn engravings.\n\nVISUAL_PROMPT: Close-up shot of the metal door's surface, highlighting intricate designs and faded inscriptions. The door stands slightly open, revealing faint glimmers of light from within.\n\n#EXT. SECLUDED GLASS ORCHARD, NIGHT - 15 SEC\nDriven by curiosity, the gardener decides to investigate the ajar door further.\n\nVISUAL_PROMPT: Shot showing the gardener stepping closer to the door, silhouette against the amber glow inside, emphasizing determination and intrigue.\n\n#EXT. SECLUDED GLASS ORCHARD, NIGHT - 15 SEC\nUpon opening the door, the gardener discovers a hidden community living within the orchard's ancient machinery.\n\nVISUAL_PROMPT: Medium shot revealing a dimly lit corridor lined with rusted yet orderly machines and tools, illuminated by flickering lanterns. Soft shadows cast by hanging vines add to the atmosphere of discovery.\n\n#EXT. SECLUDED GLASS ORCHARD, NIGHT - 15 SEC\nMembers of the hidden community are seen working in harmony, tending to the orchard's needs with age-old techniques.\n\nVISUAL_PROMPT: Group shot capturing several figures dressed in period-appropriate attire, their silhouettes blending into the warm light. They appear focused on their tasks, showcasing a peaceful coexistence between humans and technology.\n\n#EXT. SECLUDED GLASS ORCHARD, NIGHT - 15 SEC\nThe gardener exchanges words with an elderly member of the community who explains the orchard's ancient methods for fruit ripening.\n\nVISUAL_PROMPT: Close-up dialogue shot of the elder speaking softly to the gardener, their face partially illuminated by the amber light, conveying wisdom and patience.\n\n#EXT. SECLUDED GLASS ORCHARD, NIGHT - 15 SEC\nAs the story concludes, the gardener leaves with newfound knowledge, understanding that the orchard's secrets are protected yet thriving within its sealed confines.\n\nVISUAL_PROMPT: Final shot of the gardener stepping back through the ajar door, now closed tightly behind them. The orchard continues to glow softly in the background, symbolizing continuity and mystery beyond the frame.",
+  "shots": [
+    {
+      "number": 1,
+      "location": "SECLUDED GLASS ORCHARD, NIGHT",
+      "duration_seconds": 23,
+      "action": "A solitary gardener approaches the edge of the glass enclosure that houses an ancient orchard filled with fruit trees.",
+      "camera": "Wide shot",
+      "visual_prompt": "Wide shot of the sealed glass orchard illuminated by warm amber light from within. The garden is surrounded by towering concrete walls adorned with rusted metal signs indicating 'No Entry'. Soft shadows cast by nearby street lamps highlight the contrast between the vibrant green leaves inside and the muted earth tones of the exterior."
+    },
+    {
+      "number": 2,
+      "location": "SECLUDED GLASS ORCHARD, NIGHT",
+      "duration_seconds": 23,
+      "action": "The gardener notices that several fruits on the trees have begun to ripen overnight despite the sealed environment.",
+      "camera": "Medium shot",
+      "visual_prompt": "Medium shot focusing on one ripe tomato hanging from a vine, its skin glistening with morning dew. The surrounding leaves are lush and green, emphasizing the unnatural state of the fruit against the still-dark background."
+    },
+    {
+      "number": 3,
+      "location": "SECLUDED GLASS ORCHARD, NIGHT",
+      "duration_seconds": 23,
+      "action": "The gardener notices an ornate metal door at the far end of the orchard that appears to be slightly ajar.",
+      "camera": "Close-up shot",
+      "visual_prompt": "Close-up shot of the metal door's surface, highlighting intricate designs and faded inscriptions. The door stands slightly open, revealing faint glimmers of light from within."
+    },
+    {
+      "number": 4,
+      "location": "SECLUDED GLASS ORCHARD, NIGHT",
+      "duration_seconds": 23,
+      "action": "Driven by curiosity, the gardener decides to investigate the ajar door further.",
+      "camera": "Medium shot",
+      "visual_prompt": "Shot showing the gardener stepping closer to the door, silhouette against the amber glow inside, emphasizing determination and intrigue."
+    },
+    {
+      "number": 5,
+      "location": "SECLUDED GLASS ORCHARD, NIGHT",
+      "duration_seconds": 22,
+      "action": "Upon opening the door, the gardener discovers a hidden community living within the orchard's ancient machinery.",
+      "camera": "Medium shot",
+      "visual_prompt": "Medium shot revealing a dimly lit corridor lined with rusted yet orderly machines and tools, illuminated by flickering lanterns. Soft shadows cast by hanging vines add to the atmosphere of discovery."
+    },
+    {
+      "number": 6,
+      "location": "SECLUDED GLASS ORCHARD, NIGHT",
+      "duration_seconds": 22,
+      "action": "Members of the hidden community are seen working in harmony, tending to the orchard's needs with age-old techniques.",
+      "camera": "Group shot",
+      "visual_prompt": "Group shot capturing several figures dressed in period-appropriate attire, their silhouettes blending into the warm light. They appear focused on their tasks, showcasing a peaceful coexistence between humans and technology."
+    },
+    {
+      "number": 7,
+      "location": "SECLUDED GLASS ORCHARD, NIGHT",
+      "duration_seconds": 22,
+      "action": "The gardener exchanges words with an elderly member of the community who explains the orchard's ancient methods for fruit ripening.",
+      "camera": "Close-up dialogue shot",
+      "visual_prompt": "Close-up dialogue shot of the elder speaking softly to the gardener, their face partially illuminated by the amber light, conveying wisdom and patience."
+    },
+    {
+      "number": 8,
+      "location": "SECLUDED GLASS ORCHARD, NIGHT",
+      "duration_seconds": 22,
+      "action": "As the story concludes, the gardener leaves with newfound knowledge, understanding that the orchard's secrets are protected yet thriving within its sealed confines.",
+      "camera": "Wide shot",
+      "visual_prompt": "Final shot of the gardener stepping back through the ajar door, now closed tightly behind them. The orchard continues to glow softly in the background, symbolizing continuity and mystery beyond the frame."
+    }
+  ],
+  "timing_adjustment": {
+    "original_seconds": 120,
+    "target_seconds": 180,
+    "method": "proportional allocation with at least one second per shot"
+  }
+}

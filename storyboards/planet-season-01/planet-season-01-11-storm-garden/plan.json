@@ -1,0 +1,76 @@
+{
+  "title": "Abandoned Haven",
+  "logline": "Two workers discover a secret garden in an abandoned weather station, protecting the last native plants of their world.",
+  "screenplay": "\nINT. ABANDONED WEATHER STATION - DAY\n\nTwo workers, JAKE and MARY, clad in simple utility suits, move cautiously through the crumbling corridors of the old weather station. The air is thick with dust, and neon signs flicker weakly overhead.\n\n--\n\n1\nLOCATION: ABANDONED WEATHER STATION CORRIDOR\nDURATION: 15 SECONDS\nACTION: JAKE and MARY are examining a broken ventilation system when they spot an unmarked door at the end of the hallway. They approach it cautiously.\nCAMERA: Wide shot showing both characters in silhouette against the dusty corridor walls.\nVISUAL_PROMPT: A shadowy figure of JAKE and MARY standing near a rusted ventilation system, with the unmarked door visible beyond them, illuminated by warm amber light.\n\n--\n\n2\nLOCATION: DOORWAY INTO COURTYARD\nDURATION: 10 SECONDS\nACTION: The door creaks open revealing a lush courtyard filled with vibrant native plants. JAKE and MARY exchange surprised glances as they step inside.\nCAMERA: Medium shot focusing on the entrance to the courtyard, showing the contrast between the barren exterior and the green oasis within.\nVISUAL_PROMPT: A wide view of the door opening onto a garden bursting with colorful native flora, bathed in warm sunlight filtering through high windows above.\n\n--\n\n3\nLOCATION: COURTYARD GROUND LEVEL\nDURATION: 12 SECONDS\nACTION: JAKE and MARY walk among the plants, marveling at their untouched beauty. They kneel to examine a rare flower, its petals glistening with dew.\nCAMERA: Eye-level shot capturing the intimacy of JAKE and MARY standing amidst the vibrant greenery.\nVISUAL_PROMPT: Two figures kneeling beside a glowing red flower, surrounded by lush foliage in muted earth tones under warm amber light.\n\n--\n\n4\nLOCATION: CLOSE-UP OF RARE FLOWER\nDURATION: 8 SECONDS\nACTION: JAKE picks the rare flower, gently brushing away dirt. He looks at MARY with a mix of wonder and responsibility.\nCAMERA: Close-up focusing on the delicate petals of the flower, highlighting its intricate details.\nVISUAL_PROMPT: A detailed shot of the rare flower's vibrant colors and textures against a soft green background, illuminated by warm light.\n\n--\n\n5\nLOCATION: TALKING STATION - DAY (EXTENDED)\nDURATION: 20 SECONDS\nACTION: JAKE and MARY discuss the significance of preserving these plants. They realize their role in maintaining this ecological secret.\nCAMERA: Over-the-shoulder shot capturing both characters' faces, reflecting concern and determination.\nVISUAL_PROMPT: Two heads turned toward each other, hands gesturing around a cluster of native plants, eyes filled with resolve under the warm glow.\n\n--\n\n6\nLOCATION: COURTYARD EVENING SUNSET\nDURATION: 15 SECONDS\nACTION: As dusk falls, JAKE and MARY decide to return. They leave behind seeds from the rare flower for future generations.\nCAMERA: Wide shot showing the courtyard bathed in golden sunset light as they walk away towards the door.\nVISUAL_PROMPT: The garden illuminated by soft evening light with JAKE and MARY walking toward the door, leaving a trail of fallen seeds scattered on the ground.\n\n--\n\n7\nLOCATION: ABANDONED WEATHER STATION CORRIDOR - NIGHT\nDURATION: 10 SECONDS\nACTION: The duo exits the station, closing the unmarked door behind them. They turn to look back at the garden one last time before leaving.\nCAMERA: Wide shot of JAKE and MARY standing in the corridor, looking toward the now closed courtyard entrance.\nVISUAL_PROMPT: A silhouette of JAKE and MARY facing away from the garden, with only the door visible as they step out into the night.\n\n--\n\n8\nLOCATION: OUTER SPACE VISION - DAY (MONTAGE)\nDURATION: 20 SECONDS\nACTION: Quick cuts show distant planets, highlighting humanity's fragile connection to Earth’s biodiversity. The scene ends on a hopeful note of JAKE and MARY planting seeds elsewhere.\nCAMERA: Panoramic shots moving outward from the courtyard garden towards outer space, emphasizing scale.\nVISUAL_PROMPT: A series of wide shots transitioning from the lush garden inside the station to expansive views of distant planets, ending with JAKE and MARY planting a seed in an alien landscape, symbolizing hope.\n",
+  "shots": [
+    {
+      "number": 1,
+      "location": "ABANDONED WEATHER STATION CORRIDOR",
+      "duration_seconds": 24,
+      "action": "JAKE and MARY are examining a broken ventilation system when they spot an unmarked door at the end of the hallway. They approach it cautiously.",
+      "camera": "Wide shot showing both characters in silhouette against the dusty corridor walls.",
+      "visual_prompt": "A shadowy figure of JAKE and MARY standing near a rusted ventilation system, with the unmarked door visible beyond them, illuminated by warm amber light."
+    },
+    {
+      "number": 2,
+      "location": "DOORWAY INTO COURTYARD",
+      "duration_seconds": 17,
+      "action": "The door creaks open revealing a lush courtyard filled with vibrant native plants. JAKE and MARY exchange surprised glances as they step inside.",
+      "camera": "Medium shot focusing on the entrance to the courtyard, showing the contrast between the barren exterior and the green oasis within.",
+      "visual_prompt": "A wide view of the door opening onto a garden bursting with colorful native flora, bathed in warm sunlight filtering through high windows above."
+    },
+    {
+      "number": 3,
+      "location": "COURTYARD GROUND LEVEL",
+      "duration_seconds": 20,
+      "action": "JAKE and MARY walk among the plants, marveling at their untouched beauty. They kneel to examine a rare flower, its petals glistening with dew.",
+      "camera": "Eye-level shot capturing the intimacy of JAKE and MARY standing amidst the vibrant greenery.",
+      "visual_prompt": "Two figures kneeling beside a glowing red flower, surrounded by lush foliage in muted earth tones under warm amber light."
+    },
+    {
+      "number": 4,
+      "location": "CLOSE-UP OF RARE FLOWER",
+      "duration_seconds": 14,
+      "action": "JAKE picks the rare flower, gently brushing away dirt. He looks at MARY with a mix of wonder and responsibility.",
+      "camera": "Close-up focusing on the delicate petals of the flower, highlighting its intricate details.",
+      "visual_prompt": "A detailed shot of the rare flower's vibrant colors and textures against a soft green background, illuminated by warm light."
+    },
+    {
+      "number": 5,
+      "location": "TALKING STATION - DAY (EXTENDED)",
+      "duration_seconds": 32,
+      "action": "JAKE and MARY discuss the significance of preserving these plants. They realize their role in maintaining this ecological secret.",
+      "camera": "Over-the-shoulder shot capturing both characters' faces, reflecting concern and determination.",
+      "visual_prompt": "Two heads turned toward each other, hands gesturing around a cluster of native plants, eyes filled with resolve under the warm glow."
+    },
+    {
+      "number": 6,
+      "location": "COURTYARD EVENING SUNSET",
+      "duration_seconds": 24,
+      "action": "As dusk falls, JAKE and MARY decide to return. They leave behind seeds from the rare flower for future generations.",
+      "camera": "Wide shot showing the courtyard bathed in golden sunset light as they walk away towards the door.",
+      "visual_prompt": "The garden illuminated by soft evening light with JAKE and MARY walking toward the door, leaving a trail of fallen seeds scattered on the ground."
+    },
+    {
+      "number": 7,
+      "location": "ABANDONED WEATHER STATION CORRIDOR - NIGHT",
+      "duration_seconds": 17,
+      "action": "The duo exits the station, closing the unmarked door behind them. They turn to look back at the garden one last time before leaving.",
+      "camera": "Wide shot of JAKE and MARY standing in the corridor, looking toward the now closed courtyard entrance.",
+      "visual_prompt": "A silhouette of JAKE and MARY facing away from the garden, with only the door visible as they step out into the night."
+    },
+    {
+      "number": 8,
+      "location": "OUTER SPACE VISION - DAY (MONTAGE)",
+      "duration_seconds": 32,
+      "action": "Quick cuts show distant planets, highlighting humanity's fragile connection to Earth’s biodiversity. The scene ends on a hopeful note of JAKE and MARY planting seeds elsewhere.",
+      "camera": "Panoramic shots moving outward from the courtyard garden towards outer space, emphasizing scale.",
+      "visual_prompt": "A series of wide shots transitioning from the lush garden inside the station to expansive views of distant planets, ending with JAKE and MARY planting a seed in an alien landscape, symbolizing hope."
+    }
+  ],
+  "timing_adjustment": {
+    "original_seconds": 110,
+    "target_seconds": 180,
+    "method": "proportional allocation with at least one second per shot"
+  }
+}

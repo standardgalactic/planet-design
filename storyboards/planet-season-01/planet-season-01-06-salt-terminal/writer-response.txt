@@ -1,0 +1,69 @@
+{"title": "Terminal Desolation",
+"logline": "A lone courier uncovers a forgotten past when delivering to an obsolete station, navigating the haunting beauty of a salt desert terminal.",
+"screenplay": "In the desolate expanse of a 1970s science fiction world, a solitary figure navigates through monumental concrete architecture bathed in warm amber light. The setting is a now-abandoned spaceport terminal, its once-vibrant neon signs faded to muted earth tones. Amidst the sprawling salt desert landscape, the courier stands before an ancient structure, its glass walls reflecting the barren surroundings.",
+"shots": [
+{
+"number": 1,
+"location": "Outer Spaceport Terminal Entrance",
+"duration_seconds": 15,
+"action": "The camera pans over a vast concrete expanse, revealing towering structures with curved glass facades. A lone figure in a weathered jumpsuit stands at the entrance, surveying the desolate landscape.",
+"camera": "Wide shot",
+"visual_prompt": "Establishing view of the terminal's imposing architecture against a backdrop of endless salt desert, silhouetted by distant mountains under soft amber sky."
+},
+{
+"number": 2,
+"location": "Terminal Interior Corridor",
+"duration_seconds": 12,
+"action": "The courier walks down a dimly lit corridor lined with faded signage. Dust particles float in the air as they pass through archaic displays of past space travel.",
+"camera": "Medium shot",
+"visual_prompt": "Medium composition showing the interior of the terminal, highlighting decaying holographic posters and worn metal signs advertising now-defunct stations."
+},
+{
+"number": 3,
+"location": "Abandoned Delivery Area",
+"duration_seconds": 10,
+"action": "The courier examines a sealed delivery crate labeled with an obsolete station name. The crate's surface is etched with faded symbols, hinting at its forgotten purpose.",
+"camera": "Close-up",
+"visual_prompt": "Close shot of the sealed parcel, its metallic exterior reflecting the ambient light, surrounded by remnants of past operations in the dusty environment."
+},
+{
+"number": 4,
+"location": "Salt Desert Beyond Terminal",
+"duration_seconds": 12,
+"action": "Pan across the salt desert landscape to reveal a vast expanse of undulating dunes under an expansive sky. The terminal appears isolated, dwarfed by the immensity of its surroundings.",
+"camera": "Wide shot",
+"visual_prompt": "Establishing view of the lonely terminal against a backdrop of endless salt dunes, with subtle hints of ancient satellite trails etched into the ground."
+},
+{
+"number": 5,
+"location": "Paradoxical Signage",
+"duration_seconds": 9,
+"action": "The courier encounters signs pointing to non-existent stations. One reads 'Station Alpha', a name that no longer corresponds to any known location.",
+"camera": "Medium shot",
+"visual_prompt": "Medium composition showing the paradoxical signage, with one sign directing to 'Station Alpha' next to remnants of older names now forgotten."
+},
+{
+"number": 6,
+"location": "Reflection in Glass Wall",
+"duration_seconds": 11,
+"action": "The figure looks into a reflective glass wall that captures the desolate landscape. The reflection reveals not only the salt desert but also an unseen past, hinting at the terminal's forgotten history.",
+"camera": "Close-up",
+"visual_prompt": "Close shot of the mirror-like surface reflecting both the surroundings and an ethereal glimpse of earlier eras, casting a haunting light across the scene."
+},
+{
+"number": 7,
+"location": "Sealed Parcel Unveiled",
+"duration_seconds": 13,
+"action": "The courier opens the delivery crate, discovering artifacts within that hint at its original purpose. Dusty relics and old technology are exposed to the harsh desert air.",
+"camera": "Medium shot",
+"visual_prompt": "Medium shot of the opened parcel revealing ancient tech devices and personal items, their surfaces worn yet containing remnants of a bygone era's craftsmanship."
+},
+{
+"number": 8,
+"location": "Resolution at Terminal Edge",
+"duration_seconds": 20,
+"action": "The final shot places the courier at the terminal's edge, gazing out over the vast salt desert. The realization dawns that this place and its purpose are now part of history.",
+"camera": "Wide shot",
+"visual_prompt": "Establishing view from a high vantage point showing the lone figure standing at the terminal's edge, looking into an endless horizon, symbolizing both solitude and historical continuity."
+}
+]}

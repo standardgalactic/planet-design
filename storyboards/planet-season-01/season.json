@@ -1,0 +1,13 @@
+{
+  "model": "granite4.1:3b",
+  "count": 12,
+  "scenes": 8,
+  "images_per_scene": 3,
+  "duration": 180,
+  "seed": 20261018,
+  "ollama": "http://127.0.0.1:11434",
+  "comfy": "http://127.0.0.1:7860",
+  "generator": "generate.py",
+  "workflow": "workflow.json",
+  "cpu_writer": false
+}

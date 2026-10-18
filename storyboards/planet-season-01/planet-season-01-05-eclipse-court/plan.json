@@ -1,0 +1,76 @@
+{
+  "title": "Shadow's Embrace",
+  "logline": "A caretaker uncovers an ancient observatory hidden within the shadows of a ceremonial court during a rare eclipse.",
+  "screenplay": "In the heart of a 1970s science fiction world, where monumental concrete architecture stands under muted earth tones and warm amber light, a solitary caretaker tends to an empty ceremonial court. The scene opens with the caretaker preparing for the upcoming eclipse, ensuring every detail is perfect for the celestial event that will unveil hidden secrets. As the night falls, the sky darkens, revealing the court bathed in shadows. A single shot captures the sweeping view of the court, its glass walls reflecting the stars above, emphasizing the anticipation of the unfolding mystery.",
+  "shots": [
+    {
+      "number": 1,
+      "location": "Ceremonial Court",
+      "duration_seconds": 23,
+      "action": "Caregiver dusting ceremonial stones and arranging candles.",
+      "camera": "Establishing wide shot",
+      "visual_prompt": "A caretaker in a long-sleeved white uniform stands among polished black granite stones under a twilight sky, with the setting sun casting elongated shadows across the court."
+    },
+    {
+      "number": 2,
+      "location": "Ceremonial Court",
+      "duration_seconds": 15,
+      "action": "Eclipse begins; caretaker watches as the moon slowly covers the sun.",
+      "camera": "Medium shot from caretaker's perspective",
+      "visual_prompt": "The sky darkens, revealing a crescent moon and stars above. The caretaker gazes up at the celestial event through glass walls of the court."
+    },
+    {
+      "number": 3,
+      "location": "Ceremonial Court",
+      "duration_seconds": 18,
+      "action": "Caregiver notices unusual shadow patterns on the ground.",
+      "camera": "Close-up on caregiver's face with hands raised to eyes.",
+      "visual_prompt": "A caretaker's silhouette stands over a pattern of shifting shadows forming shapes reminiscent of ancient star maps."
+    },
+    {
+      "number": 4,
+      "location": "Buried Observatory Entrance",
+      "duration_seconds": 27,
+      "action": "Caregiver follows the shadow patterns into an obscured doorway.",
+      "camera": "Tracking shot through the darkened court to a hidden door behind a stone monument.",
+      "visual_prompt": "The caretaker steps through a barely visible archway under the court's glass dome, revealing a dimly lit corridor lined with ancient-looking inscriptions."
+    },
+    {
+      "number": 5,
+      "location": "Observatory Hall",
+      "duration_seconds": 30,
+      "action": "Caregiver discovers an observatory chamber filled with aged instruments.",
+      "camera": "Wide shot of the grand hall illuminated by amber light from skylights above.",
+      "visual_prompt": "A vast room filled with dusty telescopes and star charts hangs on walls. The caretaker stands in awe among the relics."
+    },
+    {
+      "number": 6,
+      "location": "Observatory Hall",
+      "duration_seconds": 18,
+      "action": "Caregiver activates a hidden mechanism to reveal an ancient map.",
+      "camera": "Medium shot focusing on the caretaker's hands manipulating a small lever.",
+      "visual_prompt": "The caretaker pulls a weathered string attached to a brass compass rose, causing a star chart to glide from behind a panel."
+    },
+    {
+      "number": 7,
+      "location": "Observatory Hall",
+      "duration_seconds": 22,
+      "action": "Caregiver understands the observatory's purpose and resolves to preserve its secrets.",
+      "camera": "Establishing shot of the caretaker looking at the revealed chart with determination in their eyes.",
+      "visual_prompt": "The caretaker gazes at a map showing celestial alignments from ancient civilizations, surrounded by soft glow from lanterns."
+    },
+    {
+      "number": 8,
+      "location": "Ceremonial Court",
+      "duration_seconds": 27,
+      "action": "As the eclipse ends, the shadow patterns fade, returning to normal.",
+      "camera": "Establishing wide shot of the court as daylight returns.",
+      "visual_prompt": "The sky brightens with the sun reappearing. Shadows on the ground dissolve back into natural light, leaving only subtle traces behind."
+    }
+  ],
+  "timing_adjustment": {
+    "original_seconds": 120,
+    "target_seconds": 180,
+    "method": "proportional allocation with at least one second per shot"
+  }
+}

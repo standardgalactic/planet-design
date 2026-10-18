@@ -1,0 +1,8 @@
+{
+  "model": "granite4.1:3b",
+  "premise": "At dawn in a futuristic coastal city, a maintenance worker discovers that an abandoned botanical station is still sending a signal. A quiet three-minute mystery with a clear ending, no violence, at most two characters.",
+  "style": "1970s science fiction matte painting, monumental concrete architecture, curved glass, muted earth colors, restrained contrast, warm amber light",
+  "negative": "text, watermark, logo, blurry, distorted, oversaturated, neon",
+  "shots": 8,
+  "duration": 180
+}

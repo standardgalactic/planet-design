@@ -1,0 +1,76 @@
+{
+  "title": "Echoes of the Bridge",
+  "logline": "A lone bridge inspector uncovers a hidden community within a colossal migration bridge and must fix their water supply, leading to unexpected friendships and personal revelations.",
+  "screenplay": "#EXTINT. #EXTMONTAGE. Aerial view of a vast, futuristic migration bridge spanning a desolate landscape under an overcast sky. The bridge's massive concrete structure is illuminated by warm amber light filtering through curved glass panels. Establishing shot shows the scale and solitude of the environment.",
+  "shots": [
+    {
+      "number": 1,
+      "location": "Bridge Exterior",
+      "duration_seconds": 25,
+      "action": "Aerial shot of the migration bridge at dusk, highlighting its grandeur and isolation.",
+      "camera": "Dolly zoom in for dramatic effect.",
+      "visual_prompt": "Wide aerial view of a colossal concrete bridge spanning a barren landscape under a gray sky, with warm amber light reflecting off glass surfaces."
+    },
+    {
+      "number": 2,
+      "location": "Inspector's View",
+      "duration_seconds": 17,
+      "action": "Close-up on the bridge inspector examining water pipes through binoculars.",
+      "camera": "Tilt up from ground level to show perspective of vastness.",
+      "visual_prompt": "Medium shot focusing on a weary bridge inspector wearing safety goggles and overalls, looking intently at corroded water pipes through magnifying glass."
+    },
+    {
+      "number": 3,
+      "location": "Hidden Room Discovery",
+      "duration_seconds": 21,
+      "action": "Inspector cautiously steps into an unseen room behind a wall of the bridge.",
+      "camera": "Crouching angle to emphasize intimacy and discovery.",
+      "visual_prompt": "Medium shot revealing a small, well-lit room with wooden furniture and soft earth tones, illuminated by warm light from windows beyond."
+    },
+    {
+      "number": 4,
+      "location": "Room Interactions",
+      "duration_seconds": 24,
+      "action": "Inspector interacts with inhabitants, learning about their water crisis.",
+      "camera": "Establishing shot moves in to focus on dialogue exchanges.",
+      "visual_prompt": "Close-up of the inspector talking to a group of bridge dwellers around a small table, hands gesturing as they share stories."
+    },
+    {
+      "number": 5,
+      "location": "Water Fix Attempt",
+      "duration_seconds": 30,
+      "action": "Inspector begins repairing the water connection using makeshift tools.",
+      "camera": "Handheld camera following inspector's movements with focus on details.",
+      "visual_prompt": "Medium shot of the inspector working diligently at a small table in the room, surrounded by old pipes and tools, hands moving purposefully."
+    },
+    {
+      "number": 6,
+      "location": "Resolution Moment",
+      "duration_seconds": 27,
+      "action": "Water flows again; bridge dwellers express gratitude.",
+      "camera": "Wide shot capturing emotional release and community bonding.",
+      "visual_prompt": "Medium wide shot of the room as water gushes from a repaired pipe, people smiling and clapping in relief."
+    },
+    {
+      "number": 7,
+      "location": "Reflection",
+      "duration_seconds": 20,
+      "action": "Inspector ponders his role amidst the bridge's larger purpose.",
+      "camera": "Establishing long shot of the inspector standing at the edge of the bridge.",
+      "visual_prompt": "Long shot of the inspector gazing out over the migration bridge with a contemplative expression, surrounded by the vastness of the landscape."
+    },
+    {
+      "number": 8,
+      "location": "Departure",
+      "duration_seconds": 16,
+      "action": "Inspector leaves the room, symbolizing new beginnings.",
+      "camera": "Fade to black as inspector walks away from the door.",
+      "visual_prompt": "Medium shot of the inspector stepping out of the hidden room toward the bridge's entrance under a setting sun."
+    }
+  ],
+  "timing_adjustment": {
+    "original_seconds": 106,
+    "target_seconds": 180,
+    "method": "proportional allocation with at least one second per shot"
+  }
+}

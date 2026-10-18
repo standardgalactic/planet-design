@@ -1,0 +1,78 @@
+{
+  "model": "granite4.1:3b",
+  "prompt": "Write an original short science-fiction screenplay and exactly 8 storyboard shots. Total planned shot duration must be exactly 180 seconds. Premise: An observatory technician sees a light moving outside a submerged window and follows its pattern to locate a stranded maintenance vessel. Write a complete standalone story, not an episode requiring a sequel. Use exactly 8 numbered scenes in the screenplay, each with its own scene heading. Give exactly one representative storyboard shot per scene, in matching order. Vary establishing views, medium compositions and object details across scenes. At most two characters, restrained dialogue, no violence, a resolved ending.\nUse at most two characters. A beginning, discovery, consequence and resolved ending. Screenplay text must include scene headings, visible action and brief dialogue. The shot list must cover that screenplay in order. A still image represents each shot; durations are an editing plan, not generated motion. Each visual_prompt must describe ONE visible instant, with the concrete subject and camera framing first, in 25–60 words. Repeat visible character clothing/appearance whenever needed; prefer environment shots and silhouettes over face-dependent continuity. Do not put dialogue, written labels, camera movement, reasoning, or invisible backstory in visual_prompt. Shared visual world: 1970s science fiction matte painting, monumental concrete architecture, curved glass, muted earth colors, restrained contrast, warm amber light\nReturn only JSON matching this schema:\n{\"type\": \"object\", \"additionalProperties\": false, \"properties\": {\"title\": {\"type\": \"string\", \"minLength\": 1}, \"logline\": {\"type\": \"string\", \"minLength\": 1}, \"screenplay\": {\"type\": \"string\", \"minLength\": 1}, \"shots\": {\"type\": \"array\", \"minItems\": 8, \"maxItems\": 8, \"items\": {\"type\": \"object\", \"additionalProperties\": false, \"properties\": {\"number\": {\"type\": \"integer\"}, \"location\": {\"type\": \"string\", \"minLength\": 1}, \"duration_seconds\": {\"type\": \"integer\", \"minimum\": 1}, \"action\": {\"type\": \"string\", \"minLength\": 1}, \"camera\": {\"type\": \"string\", \"minLength\": 1}, \"visual_prompt\": {\"type\": \"string\", \"minLength\": 1}}, \"required\": [\"number\", \"location\", \"duration_seconds\", \"action\", \"camera\", \"visual_prompt\"]}}}, \"required\": [\"title\", \"logline\", \"screenplay\", \"shots\"]}",
+  "stream": false,
+  "format": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+      "title": {
+        "type": "string",
+        "minLength": 1
+      },
+      "logline": {
+        "type": "string",
+        "minLength": 1
+      },
+      "screenplay": {
+        "type": "string",
+        "minLength": 1
+      },
+      "shots": {
+        "type": "array",
+        "minItems": 8,
+        "maxItems": 8,
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "number": {
+              "type": "integer"
+            },
+            "location": {
+              "type": "string",
+              "minLength": 1
+            },
+            "duration_seconds": {
+              "type": "integer",
+              "minimum": 1
+            },
+            "action": {
+              "type": "string",
+              "minLength": 1
+            },
+            "camera": {
+              "type": "string",
+              "minLength": 1
+            },
+            "visual_prompt": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "number",
+            "location",
+            "duration_seconds",
+            "action",
+            "camera",
+            "visual_prompt"
+          ]
+        }
+      }
+    },
+    "required": [
+      "title",
+      "logline",
+      "screenplay",
+      "shots"
+    ]
+  },
+  "keep_alive": 0,
+  "options": {
+    "temperature": 0.5,
+    "seed": 20268018,
+    "num_ctx": 8192,
+    "num_predict": 5500
+  }
+}

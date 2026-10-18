@@ -1,0 +1,8 @@
+{
+  "model": "granite4.1:3b",
+  "premise": "An observatory technician sees a light moving outside a submerged window and follows its pattern to locate a stranded maintenance vessel. Write a complete standalone story, not an episode requiring a sequel. Use exactly 8 numbered scenes in the screenplay, each with its own scene heading. Give exactly one representative storyboard shot per scene, in matching order. Vary establishing views, medium compositions and object details across scenes. At most two characters, restrained dialogue, no violence, a resolved ending.",
+  "style": "1970s science fiction matte painting, monumental concrete architecture, curved glass, muted earth colors, restrained contrast, warm amber light",
+  "negative": "text, watermark, logo, blurry, distorted, oversaturated, neon",
+  "shots": 8,
+  "duration": 180
+}

@@ -6,7 +6,6 @@
 /.vscode
 
 
-/output/
 *.progress.json
 /.cleanup-backups/
 
@@ -14,4 +13,11 @@
 __pycache__/
 
 # Windows download metadata
+*:Zone.Identifier
+
+# Local generation and model files
+/data/
+*.progress.json
+__pycache__/
+*.pyc
 *:Zone.Identifier
