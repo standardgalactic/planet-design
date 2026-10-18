@@ -12,3 +12,6 @@
 
 *.bak
 __pycache__/
+
+# Windows download metadata
+*:Zone.Identifier

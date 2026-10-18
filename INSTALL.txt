@@ -1,0 +1,22 @@
+PLANET DESIGN UPDATE
+
+Extract this archive into ~/planet-design. It replaces README.md and index.html and adds three documents, a job manifest, a gallery indexer and a generation replay tool. It contains no images and requires the existing generate.py and workflow.json.
+
+Before extracting, back up the two existing root files:
+cp README.md README.before-planet-update.md
+cp index.html index.before-planet-update.html
+
+From ~/planet-design, extract the downloaded archive (adjust its path):
+unzip -o ~/Downloads/planet-design-update.zip -d .
+
+Refresh the viewer from actual local images and their embedded metadata:
+python tools/build_planet_gallery.py
+
+Serve the project:
+python -m http.server 8000
+
+Open http://localhost:8000. The page also works when index.html is opened directly because its data are embedded rather than fetched. Browser clipboard permissions may require serving the page.
+
+No Git commit, push, deployment, model download, image generation or image move is performed by installing or rebuilding the gallery. The replay script generates only when explicitly run without --dry-run. Older project files remain in place. Seeds shown before a local rebuild are unknown rather than invented.
+
+The initial gallery has 137 entries corresponding to the supplied tree. Missing paths display a visible placeholder. The local builder scans only the project city filenames, locations/ and world-expansion/, not inherited Ankara images. No new image thumbnails or large dependencies are introduced. Python 3.9+ is required for the new utilities.

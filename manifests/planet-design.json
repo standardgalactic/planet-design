@@ -1,0 +1,611 @@
+{
+  "name": "Planet Design",
+  "recorded_date": "2026-10-17",
+  "settings": {
+    "checkpoint": "v1-5-pruned-emaonly.ckpt",
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 8,
+    "sampler": "euler",
+    "scheduler": "normal",
+    "denoise": 1,
+    "reference_images": false,
+    "loras": false
+  },
+  "notes": "Historical seeds are unknown unless recovered from PNG metadata. Batch seed is not an independently verified seed per image. This is a generation-job record, not generate_collection.py format.",
+  "jobs": [
+    {
+      "id": "city-test",
+      "category": "City studies",
+      "title": "City Test",
+      "subject": "wide establishing shot of a futuristic domed city, monumental concrete terraces, curved glass roofs, lush enclosed gardens, distant forest, 1970s science fiction film set, matte painting, warm amber light",
+      "shared_prompt": "",
+      "prompt": "wide establishing shot of a futuristic domed city, monumental concrete terraces, curved glass roofs, lush enclosed gardens, distant forest, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 1,
+      "prefix": "planet-design/city-test",
+      "files": [
+        "city-test_00001_.png"
+      ]
+    },
+    {
+      "id": "city-batch-1",
+      "category": "City studies",
+      "title": "City Batch 1",
+      "subject": "wide establishing shot of a futuristic domed city, monumental concrete terraces, curved glass roofs, lush enclosed gardens, distant forest, 1970s science fiction film set, matte painting, warm amber light",
+      "shared_prompt": "",
+      "prompt": "wide establishing shot of a futuristic domed city, monumental concrete terraces, curved glass roofs, lush enclosed gardens, distant forest, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 4,
+      "prefix": "planet-design/city-batch-1",
+      "files": [
+        "city-batch-1_00001_.png",
+        "city-batch-1_00002_.png",
+        "city-batch-1_00003_.png",
+        "city-batch-1_00004_.png"
+      ]
+    },
+    {
+      "id": "city-batch-2",
+      "category": "City studies",
+      "title": "City Batch 2",
+      "subject": "wide establishing shot of a futuristic domed city, monumental concrete terraces, curved glass roofs, lush enclosed gardens, distant forest, 1970s science fiction film set, matte painting, warm amber light",
+      "shared_prompt": "",
+      "prompt": "wide establishing shot of a futuristic domed city, monumental concrete terraces, curved glass roofs, lush enclosed gardens, distant forest, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 4,
+      "prefix": "planet-design/city-batch-2",
+      "files": [
+        "city-batch-2_00001_.png",
+        "city-batch-2_00002_.png",
+        "city-batch-2_00003_.png",
+        "city-batch-2_00004_.png"
+      ]
+    },
+    {
+      "id": "city-batch-3",
+      "category": "City studies",
+      "title": "City Batch 3",
+      "subject": "wide establishing shot of a futuristic domed city, monumental concrete terraces, curved glass roofs, lush enclosed gardens, distant forest, 1970s science fiction film set, matte painting, warm amber light",
+      "shared_prompt": "",
+      "prompt": "wide establishing shot of a futuristic domed city, monumental concrete terraces, curved glass roofs, lush enclosed gardens, distant forest, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 4,
+      "prefix": "planet-design/city-batch-3",
+      "files": [
+        "city-batch-3_00001_.png",
+        "city-batch-3_00002_.png",
+        "city-batch-3_00003_.png",
+        "city-batch-3_00004_.png"
+      ]
+    },
+    {
+      "id": "city-batch-4",
+      "category": "City studies",
+      "title": "City Batch 4",
+      "subject": "wide establishing shot of a futuristic domed city, monumental concrete terraces, curved glass roofs, lush enclosed gardens, distant forest, 1970s science fiction film set, matte painting, warm amber light",
+      "shared_prompt": "",
+      "prompt": "wide establishing shot of a futuristic domed city, monumental concrete terraces, curved glass roofs, lush enclosed gardens, distant forest, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 4,
+      "prefix": "planet-design/city-batch-4",
+      "files": [
+        "city-batch-4_00001_.png",
+        "city-batch-4_00002_.png",
+        "city-batch-4_00003_.png",
+        "city-batch-4_00004_.png"
+      ]
+    },
+    {
+      "id": "locations/residential-atrium",
+      "category": "Locations",
+      "title": "Residential Atrium",
+      "subject": "interior of a vast futuristic residential atrium, stepped balconies, indoor trees, suspended walkways, sunlight through a glass dome",
+      "shared_prompt": "monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "prompt": "interior of a vast futuristic residential atrium, stepped balconies, indoor trees, suspended walkways, sunlight through a glass dome, monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 4,
+      "prefix": "planet-design/locations/residential-atrium/study",
+      "files": [
+        "locations/residential-atrium/study_00001_.png",
+        "locations/residential-atrium/study_00002_.png",
+        "locations/residential-atrium/study_00003_.png",
+        "locations/residential-atrium/study_00004_.png"
+      ]
+    },
+    {
+      "id": "locations/transit-station",
+      "category": "Locations",
+      "title": "Transit Station",
+      "subject": "wide interior view of a futuristic underground transit station, curved platforms, streamlined monorail, illuminated ceiling panels",
+      "shared_prompt": "monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "prompt": "wide interior view of a futuristic underground transit station, curved platforms, streamlined monorail, illuminated ceiling panels, monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 4,
+      "prefix": "planet-design/locations/transit-station/study",
+      "files": [
+        "locations/transit-station/study_00001_.png",
+        "locations/transit-station/study_00002_.png",
+        "locations/transit-station/study_00003_.png",
+        "locations/transit-station/study_00004_.png"
+      ]
+    },
+    {
+      "id": "locations/botanical-garden",
+      "category": "Locations",
+      "title": "Botanical Garden",
+      "subject": "interior of an enormous botanical conservatory, tropical plants, reflecting pools, elevated paths, geometric glass roof",
+      "shared_prompt": "monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "prompt": "interior of an enormous botanical conservatory, tropical plants, reflecting pools, elevated paths, geometric glass roof, monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 4,
+      "prefix": "planet-design/locations/botanical-garden/study",
+      "files": [
+        "locations/botanical-garden/study_00001_.png",
+        "locations/botanical-garden/study_00002_.png",
+        "locations/botanical-garden/study_00003_.png",
+        "locations/botanical-garden/study_00004_.png"
+      ]
+    },
+    {
+      "id": "locations/industrial-complex",
+      "category": "Locations",
+      "title": "Industrial Complex",
+      "subject": "wide exterior view of a futuristic industrial complex, cooling towers, immense pipes, service bridges, forested hills",
+      "shared_prompt": "monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "prompt": "wide exterior view of a futuristic industrial complex, cooling towers, immense pipes, service bridges, forested hills, monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 4,
+      "prefix": "planet-design/locations/industrial-complex/study",
+      "files": [
+        "locations/industrial-complex/study_00001_.png",
+        "locations/industrial-complex/study_00002_.png",
+        "locations/industrial-complex/study_00003_.png",
+        "locations/industrial-complex/study_00004_.png"
+      ]
+    },
+    {
+      "id": "locations/forest-ruins",
+      "category": "Locations",
+      "title": "Forest Ruins",
+      "subject": "abandoned futuristic city reclaimed by forest, broken concrete terraces, vines over curved windows, giant trees, morning mist",
+      "shared_prompt": "monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "prompt": "abandoned futuristic city reclaimed by forest, broken concrete terraces, vines over curved windows, giant trees, morning mist, monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 4,
+      "prefix": "planet-design/locations/forest-ruins/study",
+      "files": [
+        "locations/forest-ruins/study_00001_.png",
+        "locations/forest-ruins/study_00002_.png",
+        "locations/forest-ruins/study_00003_.png",
+        "locations/forest-ruins/study_00004_.png"
+      ]
+    },
+    {
+      "id": "locations/reservoir",
+      "category": "Locations",
+      "title": "Reservoir",
+      "subject": "wide landscape view of a monumental reservoir outside a futuristic city, immense concrete spillways, still water, distant domes",
+      "shared_prompt": "monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "prompt": "wide landscape view of a monumental reservoir outside a futuristic city, immense concrete spillways, still water, distant domes, monumental concrete architecture, curved glass, lush vegetation, 1970s science fiction film set, matte painting, warm amber light",
+      "negative": "text, watermark, ugly, amateur, distorted, garish, gawdy, abstract",
+      "batch": 4,
+      "prefix": "planet-design/locations/reservoir/study",
+      "files": [
+        "locations/reservoir/study_00001_.png",
+        "locations/reservoir/study_00002_.png",
+        "locations/reservoir/study_00003_.png",
+        "locations/reservoir/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/tidal-city",
+      "category": "World expansion",
+      "title": "Tidal City",
+      "subject": "panoramic view of a futuristic coastal city at low tide, enormous concrete pylons standing on exposed tidal flats, elevated residential districts, bridges between towers, small boats stranded in wet sand",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "panoramic view of a futuristic coastal city at low tide, enormous concrete pylons standing on exposed tidal flats, elevated residential districts, bridges between towers, small boats stranded in wet sand, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/tidal-city/study",
+      "files": [
+        "world-expansion/tidal-city/study_00001_.png",
+        "world-expansion/tidal-city/study_00002_.png",
+        "world-expansion/tidal-city/study_00003_.png",
+        "world-expansion/tidal-city/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/crater-capital",
+      "category": "World expansion",
+      "title": "Crater Capital",
+      "subject": "wide aerial view of a circular futuristic capital built inside an ancient impact crater, concentric terraces descending toward a central lake, glass domes along the crater rim, distant mountains",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "wide aerial view of a circular futuristic capital built inside an ancient impact crater, concentric terraces descending toward a central lake, glass domes along the crater rim, distant mountains, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/crater-capital/study",
+      "files": [
+        "world-expansion/crater-capital/study_00001_.png",
+        "world-expansion/crater-capital/study_00002_.png",
+        "world-expansion/crater-capital/study_00003_.png",
+        "world-expansion/crater-capital/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/cliff-dwellings",
+      "category": "World expansion",
+      "title": "Cliff Dwellings",
+      "subject": "vast cliff face carved into futuristic apartments, rounded windows, cantilevered balconies, waterfalls descending between inhabited terraces, tiny figures on narrow connecting bridges",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "vast cliff face carved into futuristic apartments, rounded windows, cantilevered balconies, waterfalls descending between inhabited terraces, tiny figures on narrow connecting bridges, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/cliff-dwellings/study",
+      "files": [
+        "world-expansion/cliff-dwellings/study_00001_.png",
+        "world-expansion/cliff-dwellings/study_00002_.png",
+        "world-expansion/cliff-dwellings/study_00003_.png",
+        "world-expansion/cliff-dwellings/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/canal-quarter",
+      "category": "World expansion",
+      "title": "Canal Quarter",
+      "subject": "street level view of a futuristic canal district, low concrete arcades, curved glass shopfronts, small passenger boats, hanging gardens, warm evening reflections beneath elevated walkways",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "street level view of a futuristic canal district, low concrete arcades, curved glass shopfronts, small passenger boats, hanging gardens, warm evening reflections beneath elevated walkways, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/canal-quarter/study",
+      "files": [
+        "world-expansion/canal-quarter/study_00001_.png",
+        "world-expansion/canal-quarter/study_00002_.png",
+        "world-expansion/canal-quarter/study_00003_.png",
+        "world-expansion/canal-quarter/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/salt-desert-terminal",
+      "category": "World expansion",
+      "title": "Salt Desert Terminal",
+      "subject": "isolated interplanetary passenger terminal on a white salt plain, low sweeping concrete roof, amber windows, enormous landing pads, a distant spacecraft, mountains shimmering on the horizon",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "isolated interplanetary passenger terminal on a white salt plain, low sweeping concrete roof, amber windows, enormous landing pads, a distant spacecraft, mountains shimmering on the horizon, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/salt-desert-terminal/study",
+      "files": [
+        "world-expansion/salt-desert-terminal/study_00001_.png",
+        "world-expansion/salt-desert-terminal/study_00002_.png",
+        "world-expansion/salt-desert-terminal/study_00003_.png",
+        "world-expansion/salt-desert-terminal/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/night-market",
+      "category": "World expansion",
+      "title": "Night Market",
+      "subject": "interior of a crowded futuristic night market beneath a massive ribbed concrete vault, stalls selling strange fruit and ceramic vessels, hanging amber lamps, layered balconies, cinematic wide shot",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "interior of a crowded futuristic night market beneath a massive ribbed concrete vault, stalls selling strange fruit and ceramic vessels, hanging amber lamps, layered balconies, cinematic wide shot, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/night-market/study",
+      "files": [
+        "world-expansion/night-market/study_00001_.png",
+        "world-expansion/night-market/study_00002_.png",
+        "world-expansion/night-market/study_00003_.png",
+        "world-expansion/night-market/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/public-baths",
+      "category": "World expansion",
+      "title": "Public Baths",
+      "subject": "vast futuristic public bathhouse, shallow turquoise pools beneath a circular skylight, curved concrete partitions, steam, ceramic benches, tropical plants, quiet monumental interior",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "vast futuristic public bathhouse, shallow turquoise pools beneath a circular skylight, curved concrete partitions, steam, ceramic benches, tropical plants, quiet monumental interior, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/public-baths/study",
+      "files": [
+        "world-expansion/public-baths/study_00001_.png",
+        "world-expansion/public-baths/study_00002_.png",
+        "world-expansion/public-baths/study_00003_.png",
+        "world-expansion/public-baths/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/council-chamber",
+      "category": "World expansion",
+      "title": "Council Chamber",
+      "subject": "interior of a planetary council chamber, concentric rings of sunken seating surrounding a circular stone table, towering concrete ribs, narrow amber windows, high architectural viewpoint",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "interior of a planetary council chamber, concentric rings of sunken seating surrounding a circular stone table, towering concrete ribs, narrow amber windows, high architectural viewpoint, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/council-chamber/study",
+      "files": [
+        "world-expansion/council-chamber/study_00001_.png",
+        "world-expansion/council-chamber/study_00002_.png",
+        "world-expansion/council-chamber/study_00003_.png",
+        "world-expansion/council-chamber/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/memory-archive",
+      "category": "World expansion",
+      "title": "Memory Archive",
+      "subject": "immense underground archive, cylindrical storage towers rising through several floors, suspended retrieval machinery, narrow walkways, a small archivist beside a glowing terminal",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "immense underground archive, cylindrical storage towers rising through several floors, suspended retrieval machinery, narrow walkways, a small archivist beside a glowing terminal, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/memory-archive/study",
+      "files": [
+        "world-expansion/memory-archive/study_00001_.png",
+        "world-expansion/memory-archive/study_00002_.png",
+        "world-expansion/memory-archive/study_00003_.png",
+        "world-expansion/memory-archive/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/weather-control-room",
+      "category": "World expansion",
+      "title": "Weather Control Room",
+      "subject": "interior of an obsolete planetary weather control center, curving banks of analog instruments, illuminated globe, orange radar screens, giant windows facing a distant storm",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "interior of an obsolete planetary weather control center, curving banks of analog instruments, illuminated globe, orange radar screens, giant windows facing a distant storm, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/weather-control-room/study",
+      "files": [
+        "world-expansion/weather-control-room/study_00001_.png",
+        "world-expansion/weather-control-room/study_00002_.png",
+        "world-expansion/weather-control-room/study_00003_.png",
+        "world-expansion/weather-control-room/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/orbital-elevator-station",
+      "category": "World expansion",
+      "title": "Orbital Elevator Station",
+      "subject": "ground station of an orbital elevator, colossal cable rising vertically into clouds, circular transit platforms, concrete buttresses, gardens surrounding the base, low angle distant view",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "ground station of an orbital elevator, colossal cable rising vertically into clouds, circular transit platforms, concrete buttresses, gardens surrounding the base, low angle distant view, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/orbital-elevator-station/study",
+      "files": [
+        "world-expansion/orbital-elevator-station/study_00001_.png",
+        "world-expansion/orbital-elevator-station/study_00002_.png",
+        "world-expansion/orbital-elevator-station/study_00003_.png",
+        "world-expansion/orbital-elevator-station/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/hanging-train-depot",
+      "category": "World expansion",
+      "title": "Hanging Train Depot",
+      "subject": "vast maintenance depot for suspended monorail trains, streamlined carriages hanging from overhead tracks, deep inspection pits, service gantries, amber work lights, cinematic interior",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "vast maintenance depot for suspended monorail trains, streamlined carriages hanging from overhead tracks, deep inspection pits, service gantries, amber work lights, cinematic interior, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/hanging-train-depot/study",
+      "files": [
+        "world-expansion/hanging-train-depot/study_00001_.png",
+        "world-expansion/hanging-train-depot/study_00002_.png",
+        "world-expansion/hanging-train-depot/study_00003_.png",
+        "world-expansion/hanging-train-depot/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/submerged-observatory",
+      "category": "World expansion",
+      "title": "Submerged Observatory",
+      "subject": "interior of a deep underwater observatory, enormous curved windows looking into green ocean water, schools of fish, rounded instrument consoles, amber cabin lighting",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "interior of a deep underwater observatory, enormous curved windows looking into green ocean water, schools of fish, rounded instrument consoles, amber cabin lighting, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/submerged-observatory/study",
+      "files": [
+        "world-expansion/submerged-observatory/study_00001_.png",
+        "world-expansion/submerged-observatory/study_00002_.png",
+        "world-expansion/submerged-observatory/study_00003_.png",
+        "world-expansion/submerged-observatory/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/mountain-planetarium",
+      "category": "World expansion",
+      "title": "Mountain Planetarium",
+      "subject": "isolated astronomical observatory high in snowy mountains, enormous split hemispherical dome, concrete terraces, narrow enclosed bridges, violet twilight, distant illuminated city",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "isolated astronomical observatory high in snowy mountains, enormous split hemispherical dome, concrete terraces, narrow enclosed bridges, violet twilight, distant illuminated city, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/mountain-planetarium/study",
+      "files": [
+        "world-expansion/mountain-planetarium/study_00001_.png",
+        "world-expansion/mountain-planetarium/study_00002_.png",
+        "world-expansion/mountain-planetarium/study_00003_.png",
+        "world-expansion/mountain-planetarium/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/terraced-food-gardens",
+      "category": "World expansion",
+      "title": "Terraced Food Gardens",
+      "subject": "immense agricultural terraces inside a canyon, geometric fields, irrigation channels, transparent growing houses, small service vehicles, residential structures embedded in the canyon walls",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "immense agricultural terraces inside a canyon, geometric fields, irrigation channels, transparent growing houses, small service vehicles, residential structures embedded in the canyon walls, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/terraced-food-gardens/study",
+      "files": [
+        "world-expansion/terraced-food-gardens/study_00001_.png",
+        "world-expansion/terraced-food-gardens/study_00002_.png",
+        "world-expansion/terraced-food-gardens/study_00003_.png",
+        "world-expansion/terraced-food-gardens/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/fungus-vault",
+      "category": "World expansion",
+      "title": "Fungus Vault",
+      "subject": "underground agricultural chamber filled with towering cultivated mushrooms, concrete columns disappearing into darkness, narrow harvesting walkways, mist, amber lamps, small workers for scale",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "underground agricultural chamber filled with towering cultivated mushrooms, concrete columns disappearing into darkness, narrow harvesting walkways, mist, amber lamps, small workers for scale, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/fungus-vault/study",
+      "files": [
+        "world-expansion/fungus-vault/study_00001_.png",
+        "world-expansion/fungus-vault/study_00002_.png",
+        "world-expansion/fungus-vault/study_00003_.png",
+        "world-expansion/fungus-vault/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/migration-bridge",
+      "category": "World expansion",
+      "title": "Migration Bridge",
+      "subject": "colossal abandoned transport bridge crossing a forested valley, herds of long-legged alien animals walking along its overgrown deck, ruined stations, morning mist, panoramic landscape",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "colossal abandoned transport bridge crossing a forested valley, herds of long-legged alien animals walking along its overgrown deck, ruined stations, morning mist, panoramic landscape, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/migration-bridge/study",
+      "files": [
+        "world-expansion/migration-bridge/study_00001_.png",
+        "world-expansion/migration-bridge/study_00002_.png",
+        "world-expansion/migration-bridge/study_00003_.png",
+        "world-expansion/migration-bridge/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/reservoir-city",
+      "category": "World expansion",
+      "title": "Reservoir City",
+      "subject": "futuristic settlement built inside an immense drained reservoir, small homes clustered around the base of a towering spillway, old water stains on concrete walls, hanging laundry, afternoon sun",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "futuristic settlement built inside an immense drained reservoir, small homes clustered around the base of a towering spillway, old water stains on concrete walls, hanging laundry, afternoon sun, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/reservoir-city/study",
+      "files": [
+        "world-expansion/reservoir-city/study_00001_.png",
+        "world-expansion/reservoir-city/study_00002_.png",
+        "world-expansion/reservoir-city/study_00003_.png",
+        "world-expansion/reservoir-city/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/fallen-spacecraft-settlement",
+      "category": "World expansion",
+      "title": "Fallen Spacecraft Settlement",
+      "subject": "wide view of a settlement built inside the broken hull of an ancient spacecraft, curved metal ribs supporting homes and gardens, market stalls beneath an enormous engine nozzle",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "wide view of a settlement built inside the broken hull of an ancient spacecraft, curved metal ribs supporting homes and gardens, market stalls beneath an enormous engine nozzle, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/fallen-spacecraft-settlement/study",
+      "files": [
+        "world-expansion/fallen-spacecraft-settlement/study_00001_.png",
+        "world-expansion/fallen-spacecraft-settlement/study_00002_.png",
+        "world-expansion/fallen-spacecraft-settlement/study_00003_.png",
+        "world-expansion/fallen-spacecraft-settlement/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/buried-transit-hall",
+      "category": "World expansion",
+      "title": "Buried Transit Hall",
+      "subject": "ancient futuristic transit hall half buried in desert sand, dunes spilling down monumental staircases, exposed curved platforms, broken skylights, shafts of golden sunlight",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "ancient futuristic transit hall half buried in desert sand, dunes spilling down monumental staircases, exposed curved platforms, broken skylights, shafts of golden sunlight, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/buried-transit-hall/study",
+      "files": [
+        "world-expansion/buried-transit-hall/study_00001_.png",
+        "world-expansion/buried-transit-hall/study_00002_.png",
+        "world-expansion/buried-transit-hall/study_00003_.png",
+        "world-expansion/buried-transit-hall/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/forest-data-center",
+      "category": "World expansion",
+      "title": "Forest Data Center",
+      "subject": "abandoned planetary computer center reclaimed by dense forest, rows of immense cylindrical machines among trees, roots splitting concrete floors, broken glass roof, filtered sunlight",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "abandoned planetary computer center reclaimed by dense forest, rows of immense cylindrical machines among trees, roots splitting concrete floors, broken glass roof, filtered sunlight, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/forest-data-center/study",
+      "files": [
+        "world-expansion/forest-data-center/study_00001_.png",
+        "world-expansion/forest-data-center/study_00002_.png",
+        "world-expansion/forest-data-center/study_00003_.png",
+        "world-expansion/forest-data-center/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/ceremonial-eclipse-court",
+      "category": "World expansion",
+      "title": "Ceremonial Eclipse Court",
+      "subject": "vast ceremonial courtyard during a solar eclipse, black circular pool, pale concrete terraces, slender towers, tiny gathered figures, copper sky, dramatic wide architectural composition",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "vast ceremonial courtyard during a solar eclipse, black circular pool, pale concrete terraces, slender towers, tiny gathered figures, copper sky, dramatic wide architectural composition, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/ceremonial-eclipse-court/study",
+      "files": [
+        "world-expansion/ceremonial-eclipse-court/study_00001_.png",
+        "world-expansion/ceremonial-eclipse-court/study_00002_.png",
+        "world-expansion/ceremonial-eclipse-court/study_00003_.png",
+        "world-expansion/ceremonial-eclipse-court/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/storm-shelter-city",
+      "category": "World expansion",
+      "title": "Storm Shelter City",
+      "subject": "interior of a colossal communal storm shelter, inhabited terraces surrounding an underground plaza, gardens beneath artificial light, massive sealed entrance doors, warm domestic windows",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "interior of a colossal communal storm shelter, inhabited terraces surrounding an underground plaza, gardens beneath artificial light, massive sealed entrance doors, warm domestic windows, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/storm-shelter-city/study",
+      "files": [
+        "world-expansion/storm-shelter-city/study_00001_.png",
+        "world-expansion/storm-shelter-city/study_00002_.png",
+        "world-expansion/storm-shelter-city/study_00003_.png",
+        "world-expansion/storm-shelter-city/study_00004_.png"
+      ]
+    },
+    {
+      "id": "world-expansion/oceanic-arrival",
+      "category": "World expansion",
+      "title": "Oceanic Arrival",
+      "subject": "view from a small boat approaching a mysterious futuristic island city, immense curved seawalls, stepped concrete towers, waterfalls pouring into the ocean, low clouds, pale dawn light",
+      "shared_prompt": "1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "prompt": "view from a small boat approaching a mysterious futuristic island city, immense curved seawalls, stepped concrete towers, waterfalls pouring into the ocean, low clouds, pale dawn light, 1970s science fiction production design, monumental concrete architecture, curved glass, weathered ceramic surfaces, intricate practical miniature, cinematic matte painting, atmospheric depth, muted earth colors, warm amber illumination",
+      "negative": "text, watermark, logo, picture frame, gallery wall, blurry, low quality, distorted perspective",
+      "batch": 4,
+      "prefix": "planet-design/world-expansion/oceanic-arrival/study",
+      "files": [
+        "world-expansion/oceanic-arrival/study_00001_.png",
+        "world-expansion/oceanic-arrival/study_00002_.png",
+        "world-expansion/oceanic-arrival/study_00003_.png",
+        "world-expansion/oceanic-arrival/study_00004_.png"
+      ]
+    }
+  ]
+}
